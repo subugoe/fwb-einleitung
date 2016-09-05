@@ -17,5 +17,5 @@
 * [Positionen des Wörterbuchartikels. VIII: Angabe typischer Syntagmen](positionen_des_worterbuchartikels_viii_angabe_typi.md)
 * [Positionen des Wörterbuchartikels. IX: Hinweise zur Wortbildung](positionen_des_worterbuchartikels_ix_hinweise_zur_.md)
 * [Positionen des Wörterbuchartikels. X: Die Angabe von Belegen und Belegstellen](positionen_des_worterbuchartikels_x_die_angabe_von.md)
-* Hinweise auf die Häufigkeit von Wörtern und Worteigenschaften
+* [Hinweise auf die Häufigkeit von Wörtern und Worteigenschaften](hinweise_auf_die_haufigkeit_von_wortern_und_wortei.md)
 
