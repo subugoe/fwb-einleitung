@@ -18,5 +18,5 @@
 * [Positionen des Wörterbuchartikels. IX: Hinweise zur Wortbildung](positionen_des_worterbuchartikels_ix_hinweise_zur_.md)
 * [Positionen des Wörterbuchartikels. X: Die Angabe von Belegen und Belegstellen](positionen_des_worterbuchartikels_x_die_angabe_von.md)
 * [Hinweise auf die Häufigkeit von Wörtern und Worteigenschaften](hinweise_auf_die_haufigkeit_von_wortern_und_wortei.md)
-* Lexikographische Kommentare zu Eigenschaften des Wortes
+* [Lexikographische Kommentare zu Eigenschaften des Wortes](lexikographische_kommentare_zu_eigenschaften_des_w.md)
 
