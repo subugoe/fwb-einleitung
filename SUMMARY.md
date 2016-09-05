@@ -13,4 +13,5 @@
 * [Positionen des Wörterbuchartikels. IV: Hinweise zur Etymologie](positionen_des_worterbuchartikels_iv_hinweise_zur_.md)
 * [Positionen des Wörterbuchartikels. V: die Erläuterung der Bedeutung](positionen_des_worterbuchartikels_v_die_erlauterun.md)
 * [Positionen des Wörterbuchartikels. VI: die Angabe von Symptomwerten](positionen_des_worterbuchartikels_vi_die_angabe_vo.md)
+* Positionen des Wörterbuchartikels. VII: Angaben zur onomasiologischen Vernetzung des Wortes
 
