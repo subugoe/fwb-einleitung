@@ -1,0 +1,2 @@
+# Der Gegenstand des Wörterbuches
+
