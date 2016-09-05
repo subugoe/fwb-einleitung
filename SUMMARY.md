@@ -11,5 +11,5 @@
 * [Positionen des Wörterbuchartikels. II: Wortvarianten](positionen_des_worterbuchartikels_ii_wortvarianten.md)
 * [Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie](positionen_des_worterbuchartikels_iii_angaben_zur_.md)
 * [Positionen des Wörterbuchartikels. IV: Hinweise zur Etymologie](positionen_des_worterbuchartikels_iv_hinweise_zur_.md)
-* Positionen des Wörterbuchartikels. V: die Erläuterung der Bedeutung
+* [Positionen des Wörterbuchartikels. V: die Erläuterung der Bedeutung](positionen_des_worterbuchartikels_v_die_erlauterun.md)
 
