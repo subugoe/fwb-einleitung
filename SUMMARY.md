@@ -3,7 +3,7 @@
 * [Einleitung](README.md)
 * [Zum Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen](zum_stand_der_lexikographischen_aufarbeitung_des_f.md)
 * [Der Wörterbuchplan](der_worterbuchplan.md)
-* Der Kreis der Benutzer und mögliche Benutzerfragen
+* [Der Kreis der Benutzer und mögliche Benutzerfragen](der_kreis_der_benutzer_und_mogliche_benutzerfragen.md)
 * Der Gegenstand des Wörterbuches
 * Die Quellen des Wörterbuches
 * Die Anlage der Wörterbuchartikel: Allgemeines
