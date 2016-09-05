@@ -16,5 +16,5 @@
 * [Positionen des Wörterbuchartikels. VII: Angaben zur onomasiologischen Vernetzung des Wortes](positionen_des_worterbuchartikels_vii_angaben_zur_.md)
 * [Positionen des Wörterbuchartikels. VIII: Angabe typischer Syntagmen](positionen_des_worterbuchartikels_viii_angabe_typi.md)
 * [Positionen des Wörterbuchartikels. IX: Hinweise zur Wortbildung](positionen_des_worterbuchartikels_ix_hinweise_zur_.md)
-* Positionen des Wörterbuchartikels. X: Die Angabe von Belegen und Belegstellen
+* [Positionen des Wörterbuchartikels. X: Die Angabe von Belegen und Belegstellen](positionen_des_worterbuchartikels_x_die_angabe_von.md)
 
