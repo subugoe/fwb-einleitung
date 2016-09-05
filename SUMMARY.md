@@ -4,4 +4,5 @@
 * Zum Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen
 * Der Wörterbuchplan
 * Der Kreis der Benutzer und mögliche Benutzerfragen
+* Der Gegenstand des Wörterbuches
 
