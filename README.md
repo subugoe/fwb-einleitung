@@ -1,6 +1,4 @@
-# Einleitung {#einleitung}
-
-**Lexikographische Einleitung**
+# Lexikographische Einleitung {#einleitung}
 
 **1\. Die geschichtliche Bedeutung des späten Mittelalters und der frühen Neuzeit für die Gegenwart: einige skizzenhafte Bemerkungen**
 
