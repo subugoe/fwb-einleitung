@@ -13,15 +13,6 @@ Das späte Mittelalter und die frühe Neuzeit sind Epochen der deutschen Geschic
 1.3\. All diese geschichtlichen Vorgänge sind in dem kanonisierten Textsortenspektrum der Blütezeit des Mittelhochdeutschen nicht mehr formulierbar, umgekehrt ausgedrückt: Bereits im beginnenden Frühneuhochdeutschen entsteht ein Textsortensystem, das eher durch die Vielfalt seiner Intentionen, nämlich z. B. zu informieren, anzuleiten, zu unterhalten, zu erbauen, zu legitimieren, zu integrieren wie auch zu agitieren, als durch die Orientierungen religiöser oder religiös motivierter Didaktik gekennzeichnet ist und das insofern eher das Neuhochdeutsche vorbereitet als das Mittelhochdeutsche abschließt.
 
 
-
-
-
-
-
-
-
-
-
 **7\. Die Anlage der Wörterbuchartikel: Allgemeines**
 
 Alle im Kapitel 4.3\. aufgelisteten möglichen Fragen von Wörterbuchbenutzern setzen (wie die Fragen zur Behebung textlicher Produktionsschwierigkeiten) das Verständnis von Texten voraus oder zielen auf die Semantik von Texten, von Varietäten oder der Gesamtsprache Frühneuhochdeutsch. Dabei soll ‚Semantik‘ in einem weiteren, die Pragmatik einschließenden Sinne verstanden werden: Die Symptomwerte liefern zwar keine Weltinformation, wohl aber geben sie die Möglichkeit zur Erschließung des kommunikativen Handlungsfeldes, aus dem heraus für einen Text erst erkennbar wird, wie er gemeint war.
