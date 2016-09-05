@@ -12,13 +12,6 @@ Das späte Mittelalter und die frühe Neuzeit sind Epochen der deutschen Geschic
 
 1.3\. All diese geschichtlichen Vorgänge sind in dem kanonisierten Textsortenspektrum der Blütezeit des Mittelhochdeutschen nicht mehr formulierbar, umgekehrt ausgedrückt: Bereits im beginnenden Frühneuhochdeutschen entsteht ein Textsortensystem, das eher durch die Vielfalt seiner Intentionen, nämlich z. B. zu informieren, anzuleiten, zu unterhalten, zu erbauen, zu legitimieren, zu integrieren wie auch zu agitieren, als durch die Orientierungen religiöser oder religiös motivierter Didaktik gekennzeichnet ist und das insofern eher das Neuhochdeutsche vorbereitet als das Mittelhochdeutsche abschließt.
 
-
-
-
-
-
-
-
 **15\. Positionen des Wörterbuchartikels. VIII: Angabe typischer Syntagmen**
 
 Das _Frühneuhochdeutsche Wörterbuch_ ist ein Bedeutungswörterbuch. Es beschreibt die syntagmatische Verwendung von Wörtern deshalb nur so weit, wie dies dazu beiträgt, ihre Bedeutung(en) differenzierter zu verstehen.
