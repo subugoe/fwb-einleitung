@@ -7,4 +7,5 @@
 * Der Gegenstand des Wörterbuches
 * Die Quellen des Wörterbuches
 * Die Anlage der Wörterbuchartikel: Allgemeines
+* Positionen des Wörterbuchartikels. I: das Lemma
 
