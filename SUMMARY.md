@@ -4,6 +4,7 @@
 * [Zum Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen](zum_stand_der_lexikographischen_aufarbeitung_des_f.md)
 * [Der Wörterbuchplan](der_worterbuchplan.md)
 * [Der Kreis der Benutzer und mögliche Benutzerfragen](der_kreis_der_benutzer_und_mogliche_benutzerfragen.md)
+   * Vorbemerkungen
 * [Der Gegenstand des Wörterbuches](der_gegenstand_des_worterbuches.md)
 * [Die Quellen des Wörterbuches](die_quellen_des_worterbuches.md)
 * [Die Anlage der Wörterbuchartikel: Allgemeines](die_anlage_der_worterbuchartikel_allgemeines.md)
