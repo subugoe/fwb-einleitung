@@ -10,4 +10,5 @@
 * Positionen des Wörterbuchartikels. I: das Lemma
 * Positionen des Wörterbuchartikels. II: Wortvarianten
 * Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
+* Positionen des Wörterbuchartikels. IV: Hinweise zur Etymologie
 
