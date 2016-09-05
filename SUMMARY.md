@@ -8,7 +8,7 @@
 * [Die Quellen des Wörterbuches](die_quellen_des_worterbuches.md)
 * [Die Anlage der Wörterbuchartikel: Allgemeines](die_anlage_der_worterbuchartikel_allgemeines.md)
 * [Positionen des Wörterbuchartikels. I: das Lemma](positionen_des_worterbuchartikels_i_das_lemma.md)
-* Positionen des Wörterbuchartikels. II: Wortvarianten
+* [Positionen des Wörterbuchartikels. II: Wortvarianten](positionen_des_worterbuchartikels_ii_wortvarianten.md)
 * Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
 * Positionen des Wörterbuchartikels. IV: Hinweise zur Etymologie
 
