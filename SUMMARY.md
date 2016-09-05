@@ -9,4 +9,5 @@
 * Die Anlage der Wörterbuchartikel: Allgemeines
 * Positionen des Wörterbuchartikels. I: das Lemma
 * Positionen des Wörterbuchartikels. II: Wortvarianten
+* Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
 
