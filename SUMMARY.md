@@ -5,7 +5,7 @@
 * [Der Wörterbuchplan](der_worterbuchplan.md)
 * [Der Kreis der Benutzer und mögliche Benutzerfragen](der_kreis_der_benutzer_und_mogliche_benutzerfragen.md)
 * [Der Gegenstand des Wörterbuches](der_gegenstand_des_worterbuches.md)
-* Die Quellen des Wörterbuches
+* [Die Quellen des Wörterbuches](die_quellen_des_worterbuches.md)
 * Die Anlage der Wörterbuchartikel: Allgemeines
 * Positionen des Wörterbuchartikels. I: das Lemma
 * Positionen des Wörterbuchartikels. II: Wortvarianten
