@@ -21,5 +21,5 @@
 * [Lexikographische Kommentare zu Eigenschaften des Wortes](lexikographische_kommentare_zu_eigenschaften_des_w.md)
 * [Literaturhinweise](literaturhinweise.md)
 * [Register zur Erschließung von Datentypen des Wörterbuches](register_zur_erschliessung_von_datentypen_des_wort.md)
-* Captatio benevolentiae
+* [Captatio benevolentiae](captatio_benevolentiae.md)
 
