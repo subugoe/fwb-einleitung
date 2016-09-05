@@ -1,7 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
-* Zum Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen
+* [Zum Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen](zum_stand_der_lexikographischen_aufarbeitung_des_f.md)
 * Der Wörterbuchplan
 * Der Kreis der Benutzer und mögliche Benutzerfragen
 * Der Gegenstand des Wörterbuches
