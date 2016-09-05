@@ -6,7 +6,7 @@
 * [Der Kreis der Benutzer und mögliche Benutzerfragen](der_kreis_der_benutzer_und_mogliche_benutzerfragen.md)
 * [Der Gegenstand des Wörterbuches](der_gegenstand_des_worterbuches.md)
 * [Die Quellen des Wörterbuches](die_quellen_des_worterbuches.md)
-* Die Anlage der Wörterbuchartikel: Allgemeines
+* [Die Anlage der Wörterbuchartikel: Allgemeines](die_anlage_der_worterbuchartikel_allgemeines.md)
 * Positionen des Wörterbuchartikels. I: das Lemma
 * Positionen des Wörterbuchartikels. II: Wortvarianten
 * Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
