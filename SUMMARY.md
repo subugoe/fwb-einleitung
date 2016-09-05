@@ -10,5 +10,5 @@
 * [Positionen des Wörterbuchartikels. I: das Lemma](positionen_des_worterbuchartikels_i_das_lemma.md)
 * [Positionen des Wörterbuchartikels. II: Wortvarianten](positionen_des_worterbuchartikels_ii_wortvarianten.md)
 * [Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie](positionen_des_worterbuchartikels_iii_angaben_zur_.md)
-* Positionen des Wörterbuchartikels. IV: Hinweise zur Etymologie
+* [Positionen des Wörterbuchartikels. IV: Hinweise zur Etymologie](positionen_des_worterbuchartikels_iv_hinweise_zur_.md)
 
