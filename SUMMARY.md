@@ -20,4 +20,5 @@
 * [Hinweise auf die Häufigkeit von Wörtern und Worteigenschaften](hinweise_auf_die_haufigkeit_von_wortern_und_wortei.md)
 * [Lexikographische Kommentare zu Eigenschaften des Wortes](lexikographische_kommentare_zu_eigenschaften_des_w.md)
 * [Literaturhinweise](literaturhinweise.md)
+* Register zur Erschließung von Datentypen des Wörterbuches
 
