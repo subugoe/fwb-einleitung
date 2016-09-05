@@ -8,4 +8,5 @@
 * Die Quellen des Wörterbuches
 * Die Anlage der Wörterbuchartikel: Allgemeines
 * Positionen des Wörterbuchartikels. I: das Lemma
+* Positionen des Wörterbuchartikels. II: Wortvarianten
 
