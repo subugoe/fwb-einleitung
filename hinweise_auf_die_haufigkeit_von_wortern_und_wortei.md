@@ -1,4 +1,4 @@
-# Hinweise auf die Häufigkeit von Wörtern und Worteigenschaften
+#18\. Hinweise auf die Häufigkeit von Wörtern und Worteigenschaften
 Das Frühneuhochdeutsche ist keine Informanten-, sondern eine Corpussprache, genauer: eine Großcorpussprache. Theoretisch müßten also exakte Häufigkeitsangaben möglich sein, jedenfalls unter der Voraussetzung der statistischen Repräsentation der Gesamtheit aller frühneuhochdeutschen Texte im Quellencorpus. Diese Voraussetzung ist nach dem in _6\. Die Quellen des Wörterbuches_ Gesagten allerdings schon deshalb nicht gegeben, weil die quantitativ stärkste und qualitativ ergiebigste Quellengruppe, die Ausgabenglossare (vgl. 6.1.1.), sich nach wissenschaftsgeschichtlichen, damit -soziologischen und -ideologischen Gewichtungen richtet und die Verzettelung diesen Gewichtungen folgt. Zur Vermeidung jeder Suggestion einer größeren quantitativen Exaktheit, als sie tatsächlich vorhanden ist, sei deshalb explizit gesagt: Alle Häufigkeitshinweise beziehen sich ausschließlich auf das Vorkommen des Wortes oder einer seiner Eigenschaften im lexikographisch verzettelten Teil des Corpus, also nicht einmal auf das Vorkommen im Corpus überhaupt, erst recht nicht auf das Vorkommen in der Menge aller überlieferten Texte oder gar in all dem, was in frühneuhochdeutscher Zeit geschrieben bzw. gesprochen wurde, ohne überliefert zu sein. Hochrechnungen aller Art sind ausgeschlossen.
 
 18.1\. Es gibt implizite und explizite Häufigkeitshinweise.
@@ -17,7 +17,7 @@ Die Beachtung der vorstehenden beiden Bedingungen führt natürlich zu einer rel
 
 – hinter jeder für eine Häufigkeitsmarkierung in Betracht kommenden Position (also z. B. hinter jeder Wortbedeutung) die Belegquantität für die gerade betroffene Eigenschaft (eventuell in Prozentzahlen, also relativ zu einer Bezugsgröße, darunter vor allem zur Gesamtbelegung)
 
-anzugeben; ich habe aber den Sinn einer solch stringenten Dokumentation von Quantitäten für ein languebezogenes Bedeutungswörterbuch nie recht eingesehen[^131]131.
+anzugeben; ich habe aber den Sinn einer solch stringenten Dokumentation von Quantitäten für ein languebezogenes Bedeutungswörterbuch nie recht eingesehen[^131].
 
 Daraus ergibt sich, daß statt absoluter Zahlen ausschließlich normalsprachliche Kennzeichnungen verwendet werden, und zwar weitgehend standardisiert durch eine offene Reihe von Ausdrücken wie _häufig, meist, mehrmals, vor allem, vereinzelt, selten, auch, zum Teil, schwach belegt_ usw. Diese Ausdrücke gewinnen ihren Aussagewert immer nur aus dem jeweiligen beschreibungssprachlichen Zusammenhang. Je nach Zusammenhang steht deshalb jeder Hinweis für unterschiedliche absolute Werte: _Mehrmals_ z. B. verweist bei großer Belegdichte also auf einen höheren absoluten Wert als bei weniger dichter Belegung; es kann sogar auf eine größere Häufigkeit deuten als z. B. _häufig_ bei schwacher Belegung.
 
