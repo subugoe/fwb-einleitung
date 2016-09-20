@@ -10,7 +10,7 @@ Abb. 2: Das vorwiegend horizontale Nebeneinander der Varietäten des Frühneuhoc
 
 Bezeichnenderweise gibt es seit dieser Zeit ja auch keine geographischen Veränderungen mehr, denen die Bedeutung der oben genannten zugesprochen werden könnte. Die folgenden beiden Schemata sollen die Verhältnisse grob veranschaulichen.
 
-
+![](3.jpg)
 Abb. 3: Die Vertikalisierung der Varietäten des Neuhochdeutschen
 
 5.1.1\. Ein Wörterbuch über eine Sprachstufe ohne anerkannte Leitvarietät kann sich nicht auf die Beschreibung der Ansätze überregionaler, zum Beispiel geschäfts- oder literatursprachlicher Varianten beschränken, sondern hat idealiter das gesamte Varietätenspektrum zum Gegenstand, auch wenn in der Praxis Grenzen gezogen werden müssen (vgl. dazu 5.2.2.). Am Vergleich mit einem denkbaren lexikographischen Unternehmen zum Neuhochdeutschen verdeutlicht: Es ist tendenziell so, als wenn jemand ein Wörterbuch über die vergangenen 300 Jahre deutscher Sprachgeschichte schreiben und dabei Dialekte, Fachsprachen, Sondersprachen usw. gleichberechtigt, wenn auch nicht mit allen Ausdifferenzierungen, einbeziehen würde. Allerdings hinkt der Vergleich eben dadurch, daß sich das Varietätenspektrum prinzipiell verändert, nämlich stark vertikalisiert hat.
