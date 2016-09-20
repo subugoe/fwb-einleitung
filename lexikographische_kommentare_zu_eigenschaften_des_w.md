@@ -1,4 +1,4 @@
-# Lexikographische Kommentare zu Eigenschaften des Wortes
+#19\. Lexikographische Kommentare zu Eigenschaften des Wortes
 **19.1\. Verwendung des Begriffs und Typen**
 
 Der Terminus _lexikographischer Kommentar,_ zu lesen als _Kommentar des Lexikographen,_ kann in unterschiedlich weitem Sinne verwendet werden.
