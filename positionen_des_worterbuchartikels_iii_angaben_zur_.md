@@ -1,6 +1,6 @@
-# Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
+#10\. Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
 
-10.1\. Für jedes Wort wird angegeben, welcher bzw. welchen der traditionellen Wortarten (Subst., V., Adj., Zahlw., Pron., Adv., Präp., Konj., Interj., Partikel) es angehört[^72]72\. Von der in 9.3\. erwähnten Ausnahme abgesehen, steht die Wortartangabe – durch ein Komma abgetrennt – direkt hinter der Angabe der Wortvarianten, da diese relativ selten aufgeführt werden, de facto meist direkt hinter dem Lemma. Bei Substantiven wird statt der Wortart das Genus (und zwar mit _der, die_ oder _das_) angegeben, da es die Wortart Substantiv impliziert. Gehört ein Wort mehreren Wortarten an, so wird die jeweils gültige Angabe pro Bedeutung noch einmal wiederholt und kann dann mit zusätzlicher syntaktischer und semantischer Information verbunden werden, vgl.
+10.1\. Für jedes Wort wird angegeben, welcher bzw. welchen der traditionellen Wortarten (Subst., V., Adj., Zahlw., Pron., Adv., Präp., Konj., Interj., Partikel) es angehört[^72]\. Von der in 9.3\. erwähnten Ausnahme abgesehen, steht die Wortartangabe – durch ein Komma abgetrennt – direkt hinter der Angabe der Wortvarianten, da diese relativ selten aufgeführt werden, de facto meist direkt hinter dem Lemma. Bei Substantiven wird statt der Wortart das Genus (und zwar mit _der, die_ oder _das_) angegeben, da es die Wortart Substantiv impliziert. Gehört ein Wort mehreren Wortarten an, so wird die jeweils gültige Angabe pro Bedeutung noch einmal wiederholt und kann dann mit zusätzlicher syntaktischer und semantischer Information verbunden werden, vgl.
 
 <sup>1</sup>**ab,** Präp., Adv. und Adj. [...] 1\. lokale Präp. mit Dat.: ›von, weg von‹ [...]. 2\. richtungangebende Präp. mit Dat.: ›von, herunter von, herab von‹ [...]. 6\. Adv., oft in Verbindung mit Akk. der räumlichen Erstreckung: ›hinab, hinunter‹.
 
@@ -18,7 +18,7 @@ Die Verbindung der Angabe der Wortartzugehörigkeit mit syntaktischer Informatio
 
 erschließen kann.
 
-10.2.1\. Beim Substantiv ist mit der Angabe der beiden Eckformen[^73]73 Genitiv Singular und Nominativ Plural eine hinreichend genaue Zuordnung zu einer der Flexionsklassen, damit Kennzeichnung der Kasus- und Numerusbildung gegeben. Das wortarteigene Beschreibungsmuster ist (am Beispiel _abend_):
+10.2.1\. Beim Substantiv ist mit der Angabe der beiden Eckformen[^73] Genitiv Singular und Nominativ Plural eine hinreichend genaue Zuordnung zu einer der Flexionsklassen, damit Kennzeichnung der Kasus- und Numerusbildung gegeben. Das wortarteigene Beschreibungsmuster ist (am Beispiel _abend_):
 
 **abend,** _der; -(e)s / -e_
 
@@ -38,7 +38,7 @@ Pluralia tantum werden abweichend vom Muster _Gen. Sg./Nom. Pl._ durch die Sigle
 
 – den zusätzlich zum Dentalsuffix auftretenden Vokalwechsel bei der Bildung des Präteritums, des Konjunktivs II und des Partizips II (z. B. _brachte_ usw.)
 
-– die zusätzlich zum Dentalsuffix und zum Vokalwechsel im nicht präsentischen Tempusstamm auftretende Änderung des Konsonantismus der Stammsilbe (z. B. _brachte,_ alle Fälle der sog. _Primärberührung:_[^76]76 _strecken, strachte_)
+– die zusätzlich zum Dentalsuffix und zum Vokalwechsel im nicht präsentischen Tempusstamm auftretende Änderung des Konsonantismus der Stammsilbe (z. B. _brachte,_ alle Fälle der sog. _Primärberührung:_[^76] _strecken, strachte_)
 
 – Abweichungen im präsentischen Endungsparadigma (z. B. _wissen_)
 
