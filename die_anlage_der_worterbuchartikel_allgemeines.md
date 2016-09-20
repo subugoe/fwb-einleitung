@@ -1,4 +1,4 @@
-# Die Anlage der Wörterbuchartikel: Allgemeines
+#7\. Die Anlage der Wörterbuchartikel: Allgemeines
 Alle im Kapitel 4.3\. aufgelisteten möglichen Fragen von Wörterbuchbenutzern setzen (wie die Fragen zur Behebung textlicher Produktionsschwierigkeiten) das Verständnis von Texten voraus oder zielen auf die Semantik von Texten, von Varietäten oder der Gesamtsprache Frühneuhochdeutsch. Dabei soll ‚Semantik‘ in einem weiteren, die Pragmatik einschließenden Sinne verstanden werden: Die Symptomwerte liefern zwar keine Weltinformation, wohl aber geben sie die Möglichkeit zur Erschließung des kommunikativen Handlungsfeldes, aus dem heraus für einen Text erst erkennbar wird, wie er gemeint war.
 
 **7.1\. Bedeutungswörterbuch**
