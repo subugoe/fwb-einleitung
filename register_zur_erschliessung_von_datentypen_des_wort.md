@@ -1,4 +1,4 @@
-# Register zur Erschließung von Datentypen des Wörterbuches
+#21\. Register zur Erschließung von Datentypen des Wörterbuches
 **21.1\. Mögliche Registertypen und ihr Zweck**
 
 21.1.1\. Semasiologische Wörterbücher werden im Gegensatz zu onomasiologischen Wörterbüchern, die in der Regel wenigstens ein alphabetisches Register der behandelten Wörter enthalten, durchgehend ohne jede Aufbereitung der in ihnen gegebenen Daten publiziert. Es geht mir in diesem Kapitel darum, bewußt zu machen, daß prinzipiell jeder Informationstyp des semasiologischen Wörterbuches auf eine besondere Weise gekennzeichnet werden kann, daß dadurch alle Vorkommen der einzelnen Informationstypen aus dem Wörterbuchgesamttext herausgeschnitten und nach gewünschten Gesichtspunkten geordnet werden können. Dies letztere geschieht heute am kostengünstigsten unter Zuhilfenahme des Computers, dessen eigentliche Leistungsfähigkeit in der schnellen Bewältigung von Ordnungsaufgaben besteht. Im folgenden werden diejenigen Register genannt, deren Realisierung m. E. von besonderem wissenschaftlichem und praktischem Nutzen wäre:
