@@ -51,13 +51,10 @@ Den aufschlußreichsten Teil der Sekundärquellen bilden zweifellos die Wörterb
 
 6.2.2.3\. Zu den zeitgenössischen Glossaren wurde oben gesagt (6.1.3.), daß ihr Wortschatz nach einem bestimmten Auswahlverfahren elektronisch sortiert worden sei. Diese Aussage bedarf hier der Präzisierung und Erklärung: Aufgenommen wurden
 
-– bei lateinisch-deutschen Glossaren jeweils die hinter dem lateinischen Lemma stehenden heteronymischen und partiell heteronymischen[^53] Bedeutungserläuterungen
-
-– bei sachlicher Anordnung alle für die einzelnen Begriffspositionen angegebenen deutschen Wörter
-
-– bei alphabetischer Anordnung von Wortfeldern die jeweiligen Archilexeme[^54] und alle daran anschließend aufgeführten Feldangehörigen
-
-– bei alphabetischer deutsch-deutscher Anordnung die synonymischen und partiell synonymischen Erläuterungen.
+* bei lateinisch-deutschen Glossaren jeweils die hinter dem lateinischen Lemma stehenden heteronymischen und partiell heteronymischen[^53] Bedeutungserläuterungen
+* bei sachlicher Anordnung alle für die einzelnen Begriffspositionen angegebenen deutschen Wörter
+* bei alphabetischer Anordnung von Wortfeldern die jeweiligen Archilexeme[^54] und alle daran anschließend aufgeführten Feldangehörigen
+* bei alphabetischer deutsch-deutscher Anordnung die synonymischen und partiell synonymischen Erläuterungen.
 
 Umgekehrt ausgedrückt: Nicht aufgenommen wurden die alphabetisch angeordneten Lemmata deutsch-deutscher Glossare (also z. B. Maaler), da diese ja ohnehin rasch zugänglich sind, sowie diejenigen Glossare, die (wie z. B. Schöpper) in einer neuzeitlichen Edition vorliegen, der ein alphabetisches Register beigegeben ist. Dasypodius, Serranus, Hulsius und das Dictionarium Germanico-Gallico-Latinum blieben auch hinsichtlich ihres beschreibungssprachlichen Wortschatzes ausgeschlossen; dieser ist vor allem im Vergleich zu demjenigen Maalers nämlich auf den ersten Blick als unergiebig zu erkennen. Im übrigen hat sich die Erwartung, daß der beschreibungssprachliche Wortschatz beim Vocabularius Teutonico-Latinus und bei Maaler Einheiten enthält, die selbst nicht als Lemmata erscheinen, nur in bescheidenem Maße erfüllt, ein Ergebnis, das die These von der Entstehung deutsch-deutscher Wörterbücher aus deutsch-lateinischen und letzterer aus lateinisch-deutschen (nämlich durch bloße Umkehrung) erhärtet.
 
