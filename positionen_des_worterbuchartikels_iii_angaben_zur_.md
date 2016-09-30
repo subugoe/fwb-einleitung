@@ -1,4 +1,4 @@
-#10\. Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
+##10\. Positionen des Wörterbuchartikels. III: Angaben zur Wortart und zur Morphologie
 
 10.1\. Für jedes Wort wird angegeben, welcher bzw. welchen der traditionellen Wortarten (Subst., V., Adj., Zahlw., Pron., Adv., Präp., Konj., Interj., Partikel) es angehört[^72]\. Von der in 9.3\. erwähnten Ausnahme abgesehen, steht die Wortartangabe – durch ein Komma abgetrennt – direkt hinter der Angabe der Wortvarianten, da diese relativ selten aufgeführt werden, de facto meist direkt hinter dem Lemma. Bei Substantiven wird statt der Wortart das Genus (und zwar mit _der, die_ oder _das_) angegeben, da es die Wortart Substantiv impliziert. Gehört ein Wort mehreren Wortarten an, so wird die jeweils gültige Angabe pro Bedeutung noch einmal wiederholt und kann dann mit zusätzlicher syntaktischer und semantischer Information verbunden werden, vgl.
 
