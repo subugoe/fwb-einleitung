@@ -10,11 +10,9 @@ Die Verbindung der Angabe der Wortartzugehörigkeit mit syntaktischer Informatio
 
 10.2\. Die Beschreibung der Morphologie (veränderbarer Wörter: Substantive, Verben, Adjektive, Pronomina und Zahlwörter) erfolgt nach wortarteigenen Notwendigkeiten. Sie steht unter der Voraussetzung, daß das Wörterbuch nicht zu einer Morphologie werden darf, im Hinblick auf den Wörterbuchbenutzer formuliert, daß dieser mit den Regeln des deutschen Flexions- und Komparationssystems so vertraut ist, daß er aus der Zuordnung der einzelnen Wörter zu bestimmten Flexionsklassen sowie aus der Angabe wortgebundener Unregelmäßigkeiten
 
-– für Substantive, Pronomina und Zahlwörter die Kasus- und Numerusbildung,
-
-– für Verben die Tempus-, Modus-, Genusbildung sowie die Bildung der Personalformen,
-
-– für Adjektive die Bildung der Steigerungsformen
+* für Substantive, Pronomina und Zahlwörter die Kasus- und Numerusbildung,
+* für Verben die Tempus-, Modus-, Genusbildung sowie die Bildung der Personalformen,
+* für Adjektive die Bildung der Steigerungsformen
 
 erschließen kann.
 
@@ -34,19 +32,13 @@ Pluralia tantum werden abweichend vom Muster _Gen. Sg./Nom. Pl._ durch die Sigle
 
 10.2.2\. Beim Verb hängt die flexionsmorphologische Beschreibung davon ab, ob es regelmäßig (in traditioneller Terminologie: _schwach_) oder in einer oder mehreren Hinsichten unregelmäßig flektiert. Für alle regelmäßig flektierenden Verben ist mit der Angabe _V._ (für _Verb_) eine hinreichend genaue Beschreibung der Flexion gegeben; _V._ bedeutet also: Bildung des Präteritums durch ein Dentalsuffix ohne morphologisch motivierte (oder gestützte) Alternation des Stammes; Bildung des Partizips Präteriti durch das Präfix _ge-_ und das Suffix _-(e)t;_ Bildung des Imperativs Singular sowie des Konjunktivs Präsens durch _-(e)-;_ feste Endungsparadigmen für Präsens und Präteritum. Die unregelmäßig flektierenden Verben werden jeweils so genau beschrieben, daß ihre Flexion aus den gemachten Angaben erschließbar ist. Demnach betreffen die Angaben je nach Verb
 
-– die Bildung des Präteritums und des zweiten Partizips durch Ablaut des Stammvokals
-
-– den zusätzlich zum Dentalsuffix auftretenden Vokalwechsel bei der Bildung des Präteritums, des Konjunktivs II und des Partizips II (z. B. _brachte_ usw.)
-
-– die zusätzlich zum Dentalsuffix und zum Vokalwechsel im nicht präsentischen Tempusstamm auftretende Änderung des Konsonantismus der Stammsilbe (z. B. _brachte,_ alle Fälle der sog. _Primärberührung:_[^76] _strecken, strachte_)
-
-– Abweichungen im präsentischen Endungsparadigma (z. B. _wissen_)
-
-– die Bildung des infiniten Partizips II durch _-en_ (z. B. _gesalzen_ statt _gesalzt_)
-
-– die unpräfigierte Bildung des Partizips II (z. B. _funden_ statt _gefunden_)
-
-– kontrahierte Flexionsformen.
+* die Bildung des Präteritums und des zweiten Partizips durch Ablaut des Stammvokals
+* den zusätzlich zum Dentalsuffix auftretenden Vokalwechsel bei der Bildung des Präteritums, des Konjunktivs II und des Partizips II (z. B. _brachte_ usw.)
+* die zusätzlich zum Dentalsuffix und zum Vokalwechsel im nicht präsentischen Tempusstamm auftretende Änderung des Konsonantismus der Stammsilbe (z. B. _brachte,_ alle Fälle der sog. _Primärberührung:_[^76] _strecken, strachte_)
+* Abweichungen im präsentischen Endungsparadigma (z. B. _wissen_)
+* die Bildung des infiniten Partizips II durch _-en_ (z. B. _gesalzen_ statt _gesalzt_)
+* die unpräfigierte Bildung des Partizips II (z. B. _funden_ statt _gefunden_)
+* kontrahierte Flexionsformen.
 
 Eine hinreichend genaue flexionsmorphologische Beschreibung erfordert maximal die Angabe der folgenden 6 Flexionspositionen zusätzlich zum den Infinitiv bezeichnenden Lemma (im folgenden weitgehend wörtliche Anlehnung an Solms/Wegera):
 
