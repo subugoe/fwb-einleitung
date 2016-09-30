@@ -1,4 +1,4 @@
-#8\. Positionen des Wörterbuchartikels. I: das Lemma
+##8\. Positionen des Wörterbuchartikels. I: das Lemma
 **8.1\. Die Lemmatisierung**
 
 Der Zweck dieses Abschnitts besteht nicht darin, einen theoretischen Beitrag zum Status des Lemmas zu liefern, also zum Beispiel zu den Fragen, ob das Lemma eine Einheit der beschriebenen oder der beschreibenden Sprache ist, ob es als Name oder als erwähntes Zeichen für eine lexikalische Einheit steht, ob es auf die Ausdrucksseite (den Signifikanten) solcher Einheiten oder auf die Einheit als Verbindung von Ausdruck und Inhalt bezogen werden sollte, ob es zweckmäßiger als Synonym oder als Hyponym zu _Stichwort_ zu verwenden ist[^60]\. Der Zweck des Abschnitts ist vielmehr praktischer Art; er ergibt sich aus der Situation, daß alle zu lemmatisierenden Wörter auf den Belegzetteln in einer bestimmten Form begegnen. Die Gesamtheit dieser Formen soll hier unter dem Terminus _Vorkommensformen_ zusammengefaßt werden. Darunter fallen mindestens
