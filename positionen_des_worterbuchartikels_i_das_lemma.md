@@ -1,5 +1,5 @@
 ##8\. Positionen des Wörterbuchartikels. I: das Lemma
-**8.1\. Die Lemmatisierung**
+###8.1\. Die Lemmatisierung
 
 Der Zweck dieses Abschnitts besteht nicht darin, einen theoretischen Beitrag zum Status des Lemmas zu liefern, also zum Beispiel zu den Fragen, ob das Lemma eine Einheit der beschriebenen oder der beschreibenden Sprache ist, ob es als Name oder als erwähntes Zeichen für eine lexikalische Einheit steht, ob es auf die Ausdrucksseite (den Signifikanten) solcher Einheiten oder auf die Einheit als Verbindung von Ausdruck und Inhalt bezogen werden sollte, ob es zweckmäßiger als Synonym oder als Hyponym zu _Stichwort_ zu verwenden ist[^60]\. Der Zweck des Abschnitts ist vielmehr praktischer Art; er ergibt sich aus der Situation, daß alle zu lemmatisierenden Wörter auf den Belegzetteln in einer bestimmten Form begegnen. Die Gesamtheit dieser Formen soll hier unter dem Terminus _Vorkommensformen_ zusammengefaßt werden. Darunter fallen mindestens
 
@@ -208,7 +208,7 @@ Diese Situation kann sprachtheoretisch nur zu dem Schluß führen, daß (bei gle
 
 Die Frage, wie lemmatisiert wird, wenn polyseme oder homonyme[^68] (hier: homophone) Wörter graphisch differenziert werden (denkbare Fälle: _wieder/wider_ für Polysemie und _lerche/lärche_ für Homonymie), stellt sich nach dem bisherigen Exzerptionsstand für das Frühneuhochdeutsche noch nicht; Flucht aus der Polysemie und Homonymie durch orthographische Unterscheidung ist eine Erscheinung des späten 17\. Jahrhunderts und der Folgezeit. Sollte sie dennoch wortgebunden begegnen, werden selbstverständlich zwei Lemmata angesetzt.
 
-**8.2\. Die Anordnung der Lemmata und ihre graphische Kennzeichnung**
+###8.2\. Die Anordnung der Lemmata und ihre graphische Kennzeichnung
 
 8.2.1\. Die Anordnung der Lemmata erfolgt von unten angegebener Ausnahme abgesehen streng alphabetisch[^69], wobei Umlaute wie Nichtumlaute gewertet werden, also nicht, wie in Sachlexika manchmal üblich, als _Vokal + e_ (_ae, ue, oe_ usw.) zählen. Allerdings rangiert Nichtumlaut vor Umlaut. Lemmata mit genau gleicher Schreibform, aber von unterschiedlicher Wortartzugehörigkeit, werden wie folgt geordnet: Substantiv, Adjektiv, Verb, Partikel. Homonyme werden nach der Länge der zugehörigen Artikel aufgeführt: Der längere Artikel steht vor dem kürzeren, vgl. <sup>1</sup>_a,_ <sup>2</sup>_a,_ <sup>3</sup>_a_ oder <sup>1</sup>_ab,_ <sup>2</sup>_ab,_ <sup>3</sup>_ab._
 
