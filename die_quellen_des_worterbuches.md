@@ -106,7 +106,7 @@ Abb. 5: Die Raumverteilung der Quellen in sprachgeographischer Veranschaulichung
 
 Abb. 6: Die zeitliche Verteilung der Quellen
 
-![](images/7.jpg)
+![](images/7.png)
 
 Abb. 7: Die zeitliche Verteilung der Quellen im Diagramm
 
