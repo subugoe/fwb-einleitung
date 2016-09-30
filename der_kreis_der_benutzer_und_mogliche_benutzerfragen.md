@@ -1,10 +1,10 @@
 ##4\. Der Kreis der Benutzer und mögliche Benutzerfragen
 
-**4.1\. Vorbemerkungen**
+### 4.1\. Vorbemerkungen
 
 Wörterbücher sind eine Textsorte mit einer offensichtlichen kulturpädagogischen Funktion. Sie können diese um so besser erfüllen, je bewußter dem Lexikographen die intendierten Benutzungsmöglichkeiten des geplanten Werkes sind und je konsequenter er sie in der Gesamtkonzeption wie im Aufbau der Einzelartikel bis in deren Einzelpositionen hinein berücksichtigt. Dies sollte nicht nur reagierend, also in der Weise geschehen, daß vermutliche Typen von Benutzerfragen antizipiert werden und daß versucht wird, sie im Wörterbuchartikel zu beantworten. Eine sich auf solche Weise selbst beschränkende wissenschaftliche Handlung würde den Stand potentieller Benutzerfragen gleichsam festschreiben. Die Antizipation von Benutzungsmöglichkeiten sollte vielmehr zusätzlich eine aktive kulturpädagogische Komponente haben, dem Benutzer also Fragemöglichkeiten vor Augen führen, die seinen bisherigen Fragenhorizont in Richtung auf den jeweils modernsten lexikographischen Forschungsstand transzendieren.
 
-**4.2\. Der Kreis der Benutzer**
+###4.2\. Der Kreis der Benutzer
 
 4.2.1\. Als Benutzer des Wörterbuches kommen alle mit der Kultur des späten Mittelalters und der frühen Neuzeit professionell oder sonst auf hoher Interessenebene Befaßten in Betracht. Dies sind nicht nur Sprach- und Literaturhistoriker, sondern ebenso Staaten-, Territorial-, Sozial-, Wirtschafts-, Rechts-, Verfassungshistoriker, Kirchengeschichtler, Theologen, Geisteshistoriker, Volkskundler sowie alle an der Geschichte der Naturwissenschaften (zum Beispiel der Medizin, Botanik, Zoologie, Agrarwissenschaft, Astronomie, Chemie, Physik), der Technik (zum Beispiel des Berg- und Hüttenwesens, der Metallverarbeitung) und der einzelnen Handwerke Interessierten, in gängigen Berufsbezeichnungen ausgedrückt: Wissenschaftler, Archivare, Lehrer des sekundären und tertiären Bildungsbereichs, Pfarrer, Schriftsteller, Kulturkritiker im weitesten Sinne, darunter Sprachkritiker und selbstverständlich Studenten aller historischen Fächer sowie einschlägig interessierte Autodidakten.
 
@@ -14,7 +14,7 @@ Wörterbücher sind eine Textsorte mit einer offensichtlichen kulturpädagogisch
 
 (2) Das Wörterbuch wird als Sprachwörterbuch natürlich vorwiegend sprachbezügliche Information bieten; aber die bekannte erkenntnistheoretische Schwierigkeit einer klaren Trennung von Sprache und Welt(-bild, -sicht, -gliederung o. ä.)[^16] liefert einen willkommenen Grund, die sprachbezogene, insbesondere die semantische Information stets zur weltbezüglichen Information hin offen zu gestalten.
 
-**4.3\. Mögliche Benutzungsanlässe und Benutzerfragen**
+###4.3\. Mögliche Benutzungsanlässe und Benutzerfragen
 
 Wörterbücher werden benutzt zur Behebung von Schwierigkeiten bei der Produktion von Texten, zur Behebung von Schwierigkeiten bei der Rezeption von Texten, aus kognitiven Gründen, die prinzipiell unabhängig von Produktions- und Rezeptionsschwierigkeiten sind, die sich aber de facto gerne mit letzteren verbinden, sowie aus Gründen sachlicher Information[^17]\. Dementsprechend werden für das _Frühneuhochdeutsche Wörterbuch_ die unter 4.3.1\. bis 4.3.4\. behandelten Benutzungsanlässe und daraus resultierenden Benutzerfragen angenommen.
 
