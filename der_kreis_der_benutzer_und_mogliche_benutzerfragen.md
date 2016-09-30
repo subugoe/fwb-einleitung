@@ -1,4 +1,4 @@
-#4\. Der Kreis der Benutzer und mögliche Benutzerfragen
+##4\. Der Kreis der Benutzer und mögliche Benutzerfragen
 
 **4.1\. Vorbemerkungen**
 
