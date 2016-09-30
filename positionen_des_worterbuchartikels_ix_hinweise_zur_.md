@@ -1,4 +1,4 @@
-#16\. Positionen des Wörterbuchartikels. IX: Hinweise zur Wortbildung
+##16\. Positionen des Wörterbuchartikels. IX: Hinweise zur Wortbildung
 Für die Hinweise zur Bildung von Wörtern gilt sinngemäß das zur Syntagmatik Gesagte: Ein Bedeutungswörterbuch berücksichtigt die Wortbildung nur insofern, als dadurch ein Beitrag zur differenzierteren Erläuterung der Bedeutung(en) geliefert wird[^126].
 
 16.1\. Die Wortbildungshinweise stehen in drei Positionen, und zwar
