@@ -1,7 +1,7 @@
 ##6\. Die Quellen des Wörterbuches
 Für die Herausgeber stand von vornherein fest, daß das Wörterbuch sich auf ein Quellencorpus zu stützen habe; sie vertreten das Corpusprinzip. Sie sahen allerdings keine Möglichkeit, ihre Stichwortliste und das zu beschreibende Bedeutungsinventar ausschließlich aus dem Corpus von Primärquellen, das heißt aus originalen Handschriften und Drucken bzw. aus diplomatischen Editionen oder Faksimiles, zu gewinnen, sondern meinten, sich aus arbeitstechnischen Gründen weitgehend auf solche Texteditionen beschränken zu müssen, deren lexikographische Erschließung insbesondere durch angehängte Ausgabenglossare vorbereitet ist. Inzwischen scheint den Herausgebern dasjenige, was 1976 noch als Zugeständnis an die Notwendigkeiten der Praxis aufgefaßt wurde, nicht nur von der Arbeitsmethode her voll berechtigt, sondern auch unter dem Gesichtspunkt des Anschlusses lexikographischer Information an Benutzungsanlässe und Benutzerfragen gut begründbar zu sein. Bevor dies näher (vgl. 6.3.4.5.) erläutert wird, soll eine Übersicht über die berücksichtigten Quellentypen, über die Weise ihrer Bearbeitung und über ihre Verteilung gegeben werden.
 
-**6.1\. Die Quellentypen**
+##6.1\. Die Quellentypen
 
 6.1.1\. Die Ausgabenglossare
 
@@ -39,7 +39,7 @@ Der Teil „lexikologische Untersuchungen“ der Sekundärquellen war bei der Ko
 
 Den aufschlußreichsten Teil der Sekundärquellen bilden zweifellos die Wörterbücher; danach folgen mit einigem Abstand die Sachregister und der erwähnte Rest der Ausgabenglossare. Innerhalb der Wörterbücher erwiesen sich – abgesehen von der Neubearbeitung des _Deutschen Wörterbuches_ der Brüder Grimm, die auf einem beneidenswerten Quellenstand beruht[^52] – die historischen Dialektwörterbücher als äußerst ergiebig. Einen hohen Wert hat vor allem der fertiggestellte Teil des _Altkölnischen Sprachschatzes_ von Adam Wrede.
 
-**6.2\. Die Quellenbearbeitung**
+##6.2\. Die Quellenbearbeitung
 
 6.2.1\. Der Wert alphabetischer Wort- oder Schreibformenlisten für den Lexikographen besteht darin, daß sie, von einigen Schwierigkeiten einmal abgesehen, grob zu erkennen geben, welche Wörter ins Wörterbuch aufgenommen werden können, wo diese Wörter belegt sind und (unter Voraussetzung des lexikographischen, sprachlichen und kulturellen Vorwissens des Wörterbuchbearbeiters) zu welchen anderen Wörtern semantische Verwandtschaftsbeziehungen bestehen könnten. Dies alles sind Positiva; sie dürfen jedoch nicht darüber hinwegtäuschen, daß alle Listen zusammen lediglich als Voraussetzung für die lexikographische Arbeit fungieren können, die im eigentlichen Sinne des Wortes also erst nach der Erstellung der Wortlisten beginnt.
 
@@ -71,7 +71,7 @@ Für die Wörterbücher (als den ergiebigsten Teil der Sekundärquellen) ist ein
 
 Derjenige Teil der Sekundärquellen, die nicht zu den Wörterbüchern gehören, wird der Tendenz in der Behandlung der Wörterbücher entsprechend ebenfalls nur restriktiv berücksichtigt. Die Entscheidung, wann ein Lemma, eine Bedeutung, ein Beleg, eine sonstige Information wiedergegeben wird, unterliegt dem Urteil des Lexikographen. Diese offene Formulierung soll die Möglichkeit bieten, selbst zufällig dem Lexikographen vorliegende Information weiterzugeben, vgl. im Artikel _abgot_ unter Bedeutungsposition 3 den aussagekräftigen Beleg aus dem werkgeschichtlichen Anhang zu Reitz, _Historie der Wiedergebohrnen._
 
-**6.3\. Kritische Prüfung des Corpus**
+##6.3\. Kritische Prüfung des Corpus
 
 Ein Wörterbuch, das idealiter das gesamte Varietätenspektrum einer historischen Sprachstufe zum Gegenstand hat, wird sich fragen lassen müssen, wie weit dieses Ziel in der Praxis erreicht wurde. Dies erfordert eine Aufschlüsselung der Quellen nach den drei wichtigsten Heterogenitätsdimensionen ‚Zeit‘, ‚Raum‘, ‚Textsorte‘; mit dem Textsortenbegriff soll auch die schichten- und gruppensoziologische sowie die situative Dimension des Spektrums frühneuhochdeutscher Varietäten als berücksichtigt gelten. – Die Aufschlüsselung erfolgt ohne Gewichtung der einzelnen Quellentypen, des Umfangs der Quelle und (im Falle der Ausgabenglossare) ihrer Ausrichtung und ihrer Qualität. Dadurch kommen sicher erhebliche Verzerrungen zustande; sie sollten aber nicht als Alibi dazu dienen, auf die Quellenaufschlüsselung überhaupt zu verzichten. Insgesamt meinen die Herausgeber, daß der Überblick ein hinreichend zuverlässiges und aufschlußreiches Bild vermittelt. – Die Zahlen der unten folgenden Zusammenstellungen beziehen sich auf die Nummern im _Verzeichnis der Quellen._ In Klammern gesetzte Zahlen besagen, daß die jeweilige Raum-, Zeit- oder Textsortenzuordnung nur für Teile des Quellentextes oder nur unter Teilaspekten gilt. Fehlende Quellennummern ergeben sich dadurch, daß eine Raum-, Zeit- oder Textsortenzuordnung nicht möglich oder nicht sinnvoll ist.
 
