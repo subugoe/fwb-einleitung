@@ -1,4 +1,4 @@
-#14\. Positionen des Wörterbuchartikels. VII: Angaben zur onomasiologischen Vernetzung des Wortes
+##14\. Positionen des Wörterbuchartikels. VII: Angaben zur onomasiologischen Vernetzung des Wortes
 Der Ausdruck _onomasiologische Vernetzung des Wortes_ ist eine fachsprachliche Kurzform für _onomasiologische Vernetzung jeder Einzelbedeutung eines Wortes,_ da die Zugehörigkeit zu onomasiologischen (= Trierschen) Feldern ausschließlich für die Einzelbedeutungen (Sememe), nicht für das Signifikat als Gesamtbedeutung des Wortes gilt. Dementsprechend kann es für die Angaben zur onomasiologischen Wortvernetzung nur eine einzige, nämlich in Verbindung mit der Erläuterung der Einzelbedeutung stehende Artikelposition geben. Sie folgt, durch den Gedankenstrich abgetrennt und durch die Sigle _bdv._ (= _bedeutungsverwandt_) eingeleitet, auf die Position VI. _Die Angabe von Symptomwerten;_ man vgl.:
 
 **abendmal** [...]. 2\. ›Sakrament des heiligen Abendmahls‹. – Nobd., md.; seit der 2\. Hälfte des 15\. Jhs.; vorw. religiöse und didaktische Texte. – Bdv.: vgl. _abendbrot_ 2.
