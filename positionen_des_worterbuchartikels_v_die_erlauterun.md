@@ -530,7 +530,7 @@ Dies läßt schon der Stand der Übersicht über den Wortschatz, den der Lexikog
 
 Es kommt hinzu, daß die genannten Verfahren immer dann nicht greifen, wenn die Strukturbezüge, auf denen sie beruhen, nicht nur für eine, sondern für mehrere Einzelbedeutungen gelten. An einem einfachen Beispiel erläutert: _abfahrt_ 2 ›Abgang von einem Besitztum‹ hat als Gegenwort _auffart_ ›Antritt, Übernahme eines Besitztums‹; _abfart_ 3 ›[...] Gebühr‹ steht im Metonymieverhältnis zu _abfart_ 2, läßt daher andere Gegenwörter erwarten; stattdessen findet sich aber ebenfalls _auffart,_ das seinerseits im Metonymieverhältnis zu _auffart_ im gerade erläuterten Sinne steht; man vgl. folgendes Strukturschema:
 
-![](18.jpg)
+![](images/18.jpg)
 Abb. 18: Parallelen im Bedeutungsspektrum von Wörtern als Problem der Abgrenzung der Einzelbedeutungen
 
 Das Verfahren, _abfart_ 2 von _abfart_ 3 auf Grund von Gegensatzwörtern abzugrenzen, versagt also. Ähnliches gilt mit jeweils partiell anderer Begründung für die übrigen Verfahrensweisen.
