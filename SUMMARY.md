@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Die geschichtliche Bedeutung des späten Mittelalters und der frühen Neuzeit für die Gegenwart: einige skizzenhafte Bemerkungen](die_geschichtliche_bedeutung_des_spaeten_mittelalters.md)
 * [Zum Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen](zum_stand_der_lexikographischen_aufarbeitung_des_f.md)
 * [Der Wörterbuchplan](der_worterbuchplan.md)
