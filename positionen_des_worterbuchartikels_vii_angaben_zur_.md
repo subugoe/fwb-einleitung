@@ -31,19 +31,13 @@ _gnade, antlas, freiheit; büberei, misbrauch_ zu **ablas** 6\. ›Erlaß der S�
 
 (4) Die Wörter eines onomasiologischen Feldes werden aus folgenden syntaktischen und textlichen Gegebenheiten gewonnen:
 
-– Mehrfachformeln (die im Frühneuhochdeutschen häufig begegnen)
-
-– Aufzählungen, Wortreihungen aller Art, deren Glieder zueinander im Verhältnis partieller Synonymie stehen
-
-– genitivi definitivi
-
-– stilistische Varianten des Textes, darunter insbesondere die Kohyponymie mehrerer semasiologischer Dimensionen[^119]
-
-– Isotopielinien von Inkonymen (= Kohyponymen einer einzigen semantischen Dimension)
-
-– Isotopielinie differentia specifica – genus proximum – genera höherer Abstraktionsebenen
-
-– textinterne Worterläuterungen, Sacherläuterungen aller Art, insbesondere derjenigen, die nach dem Muster ‚Angabe von genus + specificum‘ erfolgen.
+* Mehrfachformeln (die im Frühneuhochdeutschen häufig begegnen)
+* Aufzählungen, Wortreihungen aller Art, deren Glieder zueinander im Verhältnis partieller Synonymie stehen
+* genitivi definitivi
+* stilistische Varianten des Textes, darunter insbesondere die Kohyponymie mehrerer semasiologischer Dimensionen[^119]
+* Isotopielinien von Inkonymen (= Kohyponymen einer einzigen semantischen Dimension)
+* Isotopielinie differentia specifica – genus proximum – genera höherer Abstraktionsebenen
+* textinterne Worterläuterungen, Sacherläuterungen aller Art, insbesondere derjenigen, die nach dem Muster ‚Angabe von genus + specificum‘ erfolgen.
 
 (5) Die Felder, die nach den unter (4) genannten Verfahren gewonnen werden, haben einen partiell anderen Status als die in der lexikologischen Theorie konzipierten Felder. Letztere nämlich sind Gruppen von Wörtern, die nach einem textunabhängig definierten Ausgangsbegriff zusammengestellt werden, wobei Herkunft und Auswahl des Ausgangsbegriffs sowie der mit ihm verfolgte wissenschaftliche Handlungszweck irrelevant sind. Die Felder des _Frühneuhochdeutschen Wörterbuches_ dagegen sind Wortgruppen, die ausschließlich aus Textgegebenheiten gewonnen wurden, die damit die inhaltlichen Kategorisierungen von Texten spiegeln. Nur so ist es z. B. erklärbar, daß oben unter Punkt (2) als Feldwörter zu _ablas_ 6 außer den dogmengeschichtlich nicht weiter verwunderlichen _gnade, antlas_ auch _büberei_ und _misbrauch_ aufgeführt wurden, Wörter also, die eindeutig Wertungen von Textautoren enthalten, umgekehrt ausgedrückt: die man bei einer begriffsorientierten Konstituierung eines Feldes ›Sündenvergebung‹ wohl kaum als bedeutungsverwandt in eine Reihe mit _gnade_ usw. gestellt hätte. – Dieses Verfahren ist zu begründen.
 
