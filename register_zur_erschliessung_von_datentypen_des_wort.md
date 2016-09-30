@@ -1,5 +1,5 @@
 ##21\. Register zur Erschließung von Datentypen des Wörterbuches
-**21.1\. Mögliche Registertypen und ihr Zweck**
+###21.1\. Mögliche Registertypen und ihr Zweck
 
 21.1.1\. Semasiologische Wörterbücher werden im Gegensatz zu onomasiologischen Wörterbüchern, die in der Regel wenigstens ein alphabetisches Register der behandelten Wörter enthalten, durchgehend ohne jede Aufbereitung der in ihnen gegebenen Daten publiziert. Es geht mir in diesem Kapitel darum, bewußt zu machen, daß prinzipiell jeder Informationstyp des semasiologischen Wörterbuches auf eine besondere Weise gekennzeichnet werden kann, daß dadurch alle Vorkommen der einzelnen Informationstypen aus dem Wörterbuchgesamttext herausgeschnitten und nach gewünschten Gesichtspunkten geordnet werden können. Dies letztere geschieht heute am kostengünstigsten unter Zuhilfenahme des Computers, dessen eigentliche Leistungsfähigkeit in der schnellen Bewältigung von Ordnungsaufgaben besteht. Im folgenden werden diejenigen Register genannt, deren Realisierung m. E. von besonderem wissenschaftlichem und praktischem Nutzen wäre:
 
@@ -31,7 +31,7 @@
 
 21.1.3\. Für das _Frühneuhochdeutsche Wörterbuch_ sind vorläufig drei Register geplant, und zwar eine rückläufige Lemmaliste (1), ein Schreibformenregister (9) und ein Register des Erläuterungswortschatzes (5). Während der Nutzen der beiden erstgenannten nach den obigen Bemerkungen einsichtig sein dürfte, soll das Register des Erläuterungswortschatzes in einem eigenen Teilkapitel etwas näher erläutert werden, und zwar ausschließlich unter dem Aspekt seines bedeutungs- und begriffsgeschichtlichen, nicht also seines methodischen Wertes.
 
-**21.2\. Das Register des Erläuterungswortschatzes als Voraussetzung für die onomasiologische Aufbereitung des Wörterbuches**
+###21.2\. Das Register des Erläuterungswortschatzes als Voraussetzung für die onomasiologische Aufbereitung des Wörterbuches
 
 In Kapitel 2\. ist der unzureichende Stand der lexikographischen Aufarbeitung des Frühneuhochdeutschen beschrieben worden. Trotzdem wird derjenige, der die Bedeutung(en) eines frühneuhochdeutschen Wortes nachschlagen möchte, diese in aller Regel in den (semasiologischen) Wörterbüchern der zeitlich vorangehenden oder nachfolgenden Epoche finden. Eine onomasiologische historische Lexikographie des Frühneuhochdeutschen wie des Deutschen überhaupt existiert dagegen nicht einmal in Ansätzen[^132]132\. Derjenige also, der eine Antwort auf Fragen des Typs sucht:
 
