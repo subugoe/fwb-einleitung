@@ -50,17 +50,17 @@ Pluralia tantum werden abweichend vom Muster _Gen. Sg./Nom. Pl._ durch die Sigle
 
 Eine hinreichend genaue flexionsmorphologische Beschreibung erfordert maximal die Angabe der folgenden 6 Flexionspositionen zusätzlich zum den Infinitiv bezeichnenden Lemma (im folgenden weitgehend wörtliche Anlehnung an Solms/Wegera):
 
-1) 1\. Person Singular Indikativ Präsens, nach der das Präsens und auch der Konjunktiv I und das Partizip I flektieren, falls kein Wechsel des Stammvokals im Präsens erfolgt; in diesem Falle ist zudem die unter 2) genannte Form anzugeben.
+1. 1\. Person Singular Indikativ Präsens, nach der das Präsens und auch der Konjunktiv I und das Partizip I flektieren, falls kein Wechsel des Stammvokals im Präsens erfolgt; in diesem Falle ist zudem die unter 2) genannte Form anzugeben.
 
-2) 3\. Person Singular Indikativ Präsens, dem auch die 2\. Person Singular Indikativ Präsens folgt.
+2. 3\. Person Singular Indikativ Präsens, dem auch die 2\. Person Singular Indikativ Präsens folgt.
 
-3) 1\. Person Singular Indikativ Präteritum, der das Präteritum (umgelautet, falls überhaupt umlautbar, auch der Konjunktiv II) entspricht, sofern ein Numerusablaut im Präteritum nicht mehr besteht; besteht dieser noch, so ist zusätzlich die unter 4) genannte Form anzugeben.
+3. 1\. Person Singular Indikativ Präteritum, der das Präteritum (umgelautet, falls überhaupt umlautbar, auch der Konjunktiv II) entspricht, sofern ein Numerusablaut im Präteritum nicht mehr besteht; besteht dieser noch, so ist zusätzlich die unter 4) genannte Form anzugeben.
 
-4) 1\. Person Plural Indikativ Präteritum, mit deren Vokal die 2\. Person Singular Indikativ Präteritum sowie der Konjunktiv II gebildet werden.
+4. 1\. Person Plural Indikativ Präteritum, mit deren Vokal die 2\. Person Singular Indikativ Präteritum sowie der Konjunktiv II gebildet werden.
 
-5) 1\. Person Singular Konjunktiv II, da stammvokalische Abweichungen vom Indikativ bestehen können, die nicht regelhaft ableitbar sind.
+5. 1\. Person Singular Konjunktiv II, da stammvokalische Abweichungen vom Indikativ bestehen können, die nicht regelhaft ableitbar sind.
 
-6) Partizip II.
+6. Partizip II.
 
 Die Angabe dieser Positionen kann wie beim Substantiv mit flexionsmorphologischen Kommentaren und zusätzlichen Informationen über die zeitliche und räumliche Verteilung der einzelnen Formen sowie über deren relative Frequenz verbunden werden. In diesem Fall entstehen für einzelne Verben sehr umfängliche flexionsmorphologische Einträge; ein Beispiel bieten Solms/Wegera für _ziehen_ (allerdings ohne flexionsmorphologischen Kommentar):
 
