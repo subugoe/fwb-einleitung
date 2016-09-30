@@ -1,5 +1,5 @@
 ##19\. Lexikographische Kommentare zu Eigenschaften des Wortes
-**19.1\. Verwendung des Begriffs und Typen**
+###19.1\. Verwendung des Begriffs und Typen
 
 Der Terminus _lexikographischer Kommentar,_ zu lesen als _Kommentar des Lexikographen,_ kann in unterschiedlich weitem Sinne verwendet werden.
 
@@ -57,7 +57,7 @@ Zum Verständnis des Kommentars _auch_ vgl. 10.2.1\. Ein Beispiel für (6) ist:
 
 In diesem letzteren Beispiel verbindet sich der syntaktische Kommentar mit (10), dem Häufigkeitskommentar, der demnach nicht mehr eigens belegt werden muß. Man erinnere sich aus Kapitel 18, daß Häufigkeitshinweise überhaupt zum Kommentar hin offen sind. – Im folgenden werden der semantische und der Belegkommentar zunächst jeweils durch Beispiele belegt und im Anschluß daran etwas ausführlicher erläutert.
 
-**19.2\. Der semantische Kommentar**
+###19.2\. Der semantische Kommentar
 
 Der semantische Kommentar begegnet im Artikelkopf (vgl. 19.2.1.) und im Zusammenhang mit den Erläuterungen der Einzelbedeutungen (vgl. 19.2.2.).
 
@@ -107,7 +107,7 @@ Der einzelbedeutungsgebundene semantische Kommentar steht nach diesen Beispielen
 
 Die vorangehende Liste setzt die unter 19.1.1\. angegebenen drei Kommentarmotive gleichsam ins Operationale um: Was dort als Motiv formuliert wurde, ist hier als Anweisung zur Artikelgestaltung zu lesen. Die unter 19.2.1\. für den semantischen Kommentar im Artikelkopf signalisierte Gefahr der einseitigen oder zu weitgehenden Strukturierung semasiologischer Felder stellt sich für den einzelbedeutungsgebundenen Kommentar schon deshalb viel weniger, weil er nur Feldteile betrifft. Außerdem bezieht er sich in der Mehrzahl der Fälle auf universelle Bedeutungsrelationen. Dies geschieht eher belehrend im Sinne des zuletzt angegebenen Kommentarmotivs als interpretierend.
 
-**19.3\. Der Belegkommentar**
+###19.3\. Der Belegkommentar
 
 Beispiele für den Belegkommentar bilden:
 
