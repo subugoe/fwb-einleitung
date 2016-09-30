@@ -62,15 +62,11 @@ Benutzungsanlässe dieser Art begegnen in zwei zumindest analytisch, weitgehend 
 
 4.3.3.1\. Den vorwiegend vergangenheitsbezogenen geisteswissenschaftlichen Bemühungen geht es um die vordergründig wertfreie Erkenntnis geschichtlicher Verhältnisse; Bezugsetzungen der Ergebnisse solcher Erkenntnis auf Probleme der Gegenwart erfolgen zwar fortlaufend, sind aber dennoch sekundär: Es gibt weite Teilbereiche der Geisteswissenschaften, die ihre Aufgabe in der Erforschung der Vergangenheit sehen und diese Tätigkeit mit Recht als Bildungsarbeit auffassen. Gedacht ist insbesondere an folgende Disziplinen:[^27]
 
-– alle Sparten der von der Sprachwissenschaft betriebenen historischen Wortforschung
-
-– die literaturwissenschaftliche Kennwortforschung (zum Beispiel zu mittelhochdeutsch _arbeit, aventiure, vröude, saelde, trûren, milte, triuwe, riter, glück_)
-
-– die literaturwissenschaftliche Erforschung zentraler Begriffe poetischer Fiktionen und Fiktionstraditionen (zum Beispiel von ‚Humanität‘, ‚Melancholie‘, ‚Mitleid‘)
-
-– die insbesondere von der Geschichtswissenschaft betriebene ideen-, begriffs-, ideologiegeschichtliche Forschung (zum Beispiel zu ‚Staat‘, ‚Emanzipation‘, ‚Öffentlichkeit‘, ‚Bürger‘)
-
-– die theologische Erforschung von Kernbegriffen kirchlicher Dogmatik (zum Beispiel von ‚Rechtfertigung‘, ‚Gnade‘, ‚Erlösung‘) und solchen der religiösen Volkskultur.
+* alle Sparten der von der Sprachwissenschaft betriebenen historischen Wortforschung
+* die literaturwissenschaftliche Kennwortforschung (zum Beispiel zu mittelhochdeutsch _arbeit, aventiure, vröude, saelde, trûren, milte, triuwe, riter, glück_)
+* die literaturwissenschaftliche Erforschung zentraler Begriffe poetischer Fiktionen und Fiktionstraditionen (zum Beispiel von ‚Humanität‘, ‚Melancholie‘, ‚Mitleid‘)
+* die insbesondere von der Geschichtswissenschaft betriebene ideen-, begriffs-, ideologiegeschichtliche Forschung (zum Beispiel zu ‚Staat‘, ‚Emanzipation‘, ‚Öffentlichkeit‘, ‚Bürger‘)
+* die theologische Erforschung von Kernbegriffen kirchlicher Dogmatik (zum Beispiel von ‚Rechtfertigung‘, ‚Gnade‘, ‚Erlösung‘) und solchen der religiösen Volkskultur.
 
 4.3.3.2\. Der eher gegenwartsbezogenen geisteswissenschaftlichen Arbeit geht es um die Projektion geschichtlicher Verhältnisse auf solche der Gegenwart, und zwar in aller Regel weniger des wertfreien Vergleichs halber als aus kulturpädagogischen Absichten: Die Gegenwart soll durch verfremdende Konfrontation mit der Vergangenheit in ihrer geschichtlichen Gewordenheit bewußt gemacht werden. Die dadurch vermittelte Sicht der Gegenwart als Teil der Geschichte schafft Dispositionen für begründete Traditionspflege und für begründete traditionsgebundene Veränderungen. Diese Argumentationslinie ist der Hintergrund dafür, daß von den oben genannten vergangenheitsbezogenen Disziplinen der Geschichtsforschung mindestens die historische Wortforschung, die ideen-, begriffs- und ideologiegeschichtliche Forschung sowie die dogmengeschichtliche Forschung gleichsam eine Anwendungskomponente haben. Deren institutioneller Rahmen sind nicht mehr die wissenschaftlichen Einrichtungen von Universitäten und Akademien, sondern die Kulturinstanzen, darunter vor allem die höhere Schule, die Kultusministerien, die Kirche, alle sonstigen normensetzenden und -vermittelnden Institutionen der Gesellschaft. Man wird hierbei zu beachten haben, daß nicht ausschließlich Inhalte in einem jeweils besonderen Sinne aus der Tradition begründet werden. Auch Formalia, wie zum Beispiel die historische Begründung der Rechtschreibung einschließlich des literarischen und werbesprachlichen Experimentierens mit ihr oder ihres agitativen Gebrauchs mittels Normabweichungen, gehören in diesen Rahmen.
 
