@@ -1,7 +1,7 @@
 ##5\. Der Gegenstand des Wörterbuches
 Gegenstand des Wörterbuches ist der Wortschatz des Frühneuhochdeutschen. In dieser Aussage sind die Begriffe ‚Frühneuhochdeutsch‘ und ‚Wortschatz‘ zu erläutern, ersterer unter dem Gesichtspunkt der Diagliederung, letzterer unter dem Aspekt der Stichwortauswahl.
 
-**5.1\. Zum Begriff ‚Frühneuhochdeutsch‘**
+## 5.1\. Zum Begriff ‚Frühneuhochdeutsch‘
 
 Das Frühneuhochdeutsche ist wie jede historische Sprachstufe jeder geschichtlichen Einzelsprache eine Gesamtheit von Varietäten. Als im Vergleich zum Mittelhochdeutschen wie vor allem zum späteren Neuhochdeutschen spezifisch kommt hinzu, daß die einzelnen Varietäten nicht in der Weise von einer anerkannten Leitvarietät überdacht werden, wie es im Neuhochdeutschen vom 17\. bis zum 19\. Jahrhundert durch die Schriftsprache, darunter zeitweilig die Literatursprache (hier verstanden als Sprache der deutschen Literatur), und seit der zweiten Hälfte des 19\. Jahrhunderts durch die Standardsprache geschieht, sondern daß sie auf einer vergleichsweise nur geringfügig schwankenden Prestigestufe eher horizontal nebeneinander stehen als vertikal auf eine Form von Hochsprache hin ausgerichtet sind. Selbstverständlich schließt dieses Bild eines eher horizontalen Nebeneinanders von Varietäten wechselseitige Beeinflussungen nicht aus; diese verlaufen allerdings, wie vor allem die großen sprachgeographischen Veränderungen (Monophthongierung, Diphthongierung, Dehnung in offener Silbe, oberdeutsche Apokopierung[^28] usw.) beweisen, entscheidend horizontal, sind mithin nicht aus vertikaler Überdachung verstehbar, wie sie für die Geschichte der deutschen Sprache seit dem 16\. Jahrhundert typisch ist[^29]\. 
 
@@ -57,7 +57,7 @@ Eine andere Entscheidung als für die eigentlich (d. h. phonologisch) niederdeut
 
 Selbstverständlich sind die gesteckten Zeitgrenzen nicht als starr, sondern eher als Durchschnitt aufzufassen. Es gehört ja geradezu zur Geschichtlichkeit von Sprache, daß sich Epochengrenzen textsorten-, sozial-, raum- und gruppenspezifisch gegeneinander verschieben. Weistümer[^37] z. B. werden also bis ins späte 17\. Jahrhundert mitberücksichtigt, archaisierende Texte nicht deshalb ausgeschlossen, weil sie hochmittelalterliches Sprachgut tradieren. Insbesondere gegen das Ende der Epoche wurde eine starre Zeitbegrenzung dadurch vermieden, daß das in die Wörterbuchquellen einbezogene Bonner Corpus der _Grammatik des Frühneuhochdeutschen_[^38] auch Texte der zweiten Hälfte des 17\. Jahrhunderts enthält. Dies ist ein Niederschlag der Auffassung der Bonner Forschergruppe um Hugo Moser, Werner Besch, Hugo Stopp, Klaus-Peter Wegera, Winfried Lenders, Helmut Graser, Walter Hoffmann, daß das Ende des Frühneuhochdeutschen eher gegen die Wende zum 18\. Jahrhundert hin als mit dem Beginn des Frühbarocks anzusetzen ist[^39]\. Daß die betreffenden Texte nicht einfach unberücksichtigt gelassen wurden, hängt außer mit einer gewissen Lückenhaftigkeit des eigenen Quellenmaterials für das 17\. Jahrhundert auch mit dem expliziten Wunsch der Herausgeber zusammen, die Verflechtung des frühneuhochdeutschen Wortschatzes mit demjenigen des Neuhochdeutschen, wie natürlich auch mit demjenigen des Mittelhochdeutschen, nicht unnötig zu verdecken.
 
-**5.2\. Zum Begriff ‚Wortschatz‘**
+##5.2\. Zum Begriff ‚Wortschatz‘
 
 Der Begriff ‚Wortschatz‘ soll hier ausschließlich unter dem Aspekt der Stichwortauswahl behandelt werden. Dabei sind zwei Fragen voneinander zu unterscheiden, und zwar
 
