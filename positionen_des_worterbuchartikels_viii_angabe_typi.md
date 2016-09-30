@@ -1,4 +1,4 @@
-#15\. Positionen des Wörterbuchartikels. VIII: Angabe typischer Syntagmen
+##15\. Positionen des Wörterbuchartikels. VIII: Angabe typischer Syntagmen
 Das _Frühneuhochdeutsche Wörterbuch_ ist ein Bedeutungswörterbuch. Es beschreibt die syntagmatische Verwendung von Wörtern deshalb nur so weit, wie dies dazu beiträgt, ihre Bedeutung(en) differenzierter zu verstehen.
 
 Daraus ergibt sich zunächst, daß angegebene Syntagmen ausschließlich in Verbindung mit der Beschreibung der Einzelbedeutung stehen. Sie werden durch den Gedankenstrich von der vorangehenden Position, nämlich den ebenfalls auf die Einzelbedeutung bezogenen Angaben zur onomasiologischen Vernetzung, abgetrennt und durch die Sigle _Synt._ eingeleitet; man vgl.:
