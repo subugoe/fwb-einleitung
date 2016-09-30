@@ -13,15 +13,11 @@ Bei polysemen Wörtern gibt es deren notwendigerweise mehrere, eben genau so vie
 
 **abbruch** [...]
 
-1\. ›Abfall von Materialien (z. B. von Holz)‹ [...].
-
-2\. ›Verlust, Schaden (vor allem militärischer Art)‹ [...].
-
-3\. ›Entzug, Wegnahme [...] von etw., das jm. zusteht, Nachteil, Schädigung, Schaden‹ [...].
-
-4\. ›Enthaltsamkeit, Mäßigung, Enthaltung von natürlichen Bedürfnissen‹ [...].
-
-5\. [usw. bis zur laufenden Nummer 9].
+1. ›Abfall von Materialien (z. B. von Holz)‹ [...].
+2. ›Verlust, Schaden (vor allem militärischer Art)‹ [...].
+3. ›Entzug, Wegnahme [...] von etw., das jm. zusteht, Nachteil, Schädigung, Schaden‹ [...].
+4. ›Enthaltsamkeit, Mäßigung, Enthaltung von natürlichen Bedürfnissen‹ [...].
+5. [usw. bis zur laufenden Nummer 9].
 
 12.1.2\. Zu den Erläuterungsteilen gehört im engsten Sinne die Bedeutungsangabe; in einem weiteren Sinne gehören dazu: Angaben zum sachlichen Bezugsbereich, Wortbildungserläuterungen, kulturgeschichtliche Erläuterungen, in einem nochmals weiteren Sinne die Hinweise zur Etymologie, semantische Kommentare, letztlich auch die Angaben zum onomasiologischen Feld und zur syntagmatischen Verwendung sowie die Aufführung der Belege. In geometrischer Veranschaulichung würde sich ein Bild von konzentrisch umeinander gelagerten Kreisen ergeben; der durch den innersten Kreis symbolisierte Erläuterungsteil beträfe ausschließlich die Bedeutung des Wortes; alle darum herumgelagerten Kreise würden Erläuterungsteile veranschaulichen, die die Bedeutung mit abnehmender Direktheit jeweils unter Einzelaspekten wie dem ihrer Wortbildungsvernetzung, ihrer onomasiologischen Vernetzung oder ihrer Syntagmatik betreffen. Entscheidend bleibt aber, daß in einem Bedeutungswörterbuch letztlich alle Artikelinformation im Dienste der Bedeutungserläuterung steht. Die einzelnen Informationstypen integrieren sich zu einem Gesamtbild, das die Bedeutungsangabe als den zentralen Teil der Bedeutungserläuterung aspektuell ergänzt und im Extremfall sogar ersetzen kann.
 
@@ -366,13 +362,10 @@ Damit verbindet sich eine methodische Crux. Wenn die generischen Inhalte (sozial
 
 Noch entscheidender scheint mir folgende Crux der generisch ausgliedernden Bedeutungserläuterung zu sein: Sie suggeriert insgesamt eine „Logik“, schwächer ausgedrückt, einen Grad an Wohlbestimmtheit und damit Unterscheidbarkeit der Einzelbedeutungen, der m. E. nicht gegeben ist. Schon die Gliederung nach 1\. _Handlung von Menschen_ und 2\. _Vorgang_ ist der Verwendung von _abenteuer_ in den Texten nicht adäquat, weil es nicht so sehr auf _abenteuer_ als ›Handlung‹ oder als ›Vorgang‹ ankommt als auf die Besonderheiten, die mit dem einen wie mit dem anderen zusammenhängen. Der Punkt 3\. _Implikate der Handlung oder des Vorgangs_ faßt die Punkte 1 und 2 denn auch zusammen, was ihre Unterscheidung im Nachhinein wieder aufhebt. Überdies rückt all dasjenige, was nach der Unterscheidung ersten Grades unter 1., 2\. oder 3\. fällt, in maximale Entfernung zueinander, während Handlungsbedeutung und Metonymie sprachlich doch zusammengehören. Im Sinne dieser Kritik könnte man weiterfahren bis in die Unterpunkte hinein: 1.1\. _gegenüber Menschen_ hat keinen rechten Gegensatz in 1.2\. _generell in schwierigen Lebenssituationen, um diese zu meistern;_ 1.1.1\. _gegenüber Gegnern [...]_ hat keinen rechten Gegensatz in 1.1.2\. _gegenüber Geschäftspartnern_ usw. Diese Kritik ließe sich auch durch eine inhaltlich andere Durchgliederung nicht gegenstandslos machen, die Einwände wären nur anders. Das generisch ausgliedernde Erläuterungsmuster legt nämlich qualitate qua fest,
 
-– was genus und was differentia ist,
-
-– es weist den einzelnen inhaltlichen Nuancen von Bedeutungen einen fixen Strukturplatz zu,
-
-– es fixiert mit der Zuweisung eines solchen Platzes den Grad der inhaltlichen Verwandtschaft der Endpositionen der Differenzierungsreihen,
-
-– es verdeckt mit all dem die gerade für den Kulturwortschatz charakteristische semantische Offenheit der einzelnen Bedeutungen zueinander, verschüttet einfach dadurch, daß es Differenzierungsstränge ausformuliert, die Vielfalt inhaltlicher Bezugsmöglichkeiten zueinander.
+* was genus und was differentia ist,
+* es weist den einzelnen inhaltlichen Nuancen von Bedeutungen einen fixen Strukturplatz zu,
+* es fixiert mit der Zuweisung eines solchen Platzes den Grad der inhaltlichen Verwandtschaft der Endpositionen der Differenzierungsreihen,
+* es verdeckt mit all dem die gerade für den Kulturwortschatz charakteristische semantische Offenheit der einzelnen Bedeutungen zueinander, verschüttet einfach dadurch, daß es Differenzierungsstränge ausformuliert, die Vielfalt inhaltlicher Bezugsmöglichkeiten zueinander.
 
 12.5.1.5\. Beschreibt man dies alles im Hinblick auf den Wörterbuchbenutzer, so gestalten sich die Einwände wie folgt: Die Gliederungspunkte höherer Ordnung sind nicht nur im angegebenen Beispiel, sondern auch in vielen anderen Fällen Universalien oder jedenfalls Inhaltseinheiten von sehr allgemeiner Geltung. Ihretwillen ist keine einzige textbezogene (rezeptions- oder produktionsrelevante), sondern sind höchstens texttranszendierende Nachschlagehandlungen denkbar: es sind Inhalte, die jeder, der einen Text liest, aus dessen allgemeinem Sinnzusammenhang heraus erschließen kann. – Was noch schwerer wiegt: Dadurch daß der generisch ausgliedernde Typ den Lexikographen zwingt, die Beziehungen zwischen den Einzelbedeutungen auszuformulieren, zwingt er ihn zugleich zum Reduktionismus, daß heißt hier: zur Beschränkung auf eine pro Endposition einzige Reihe von inhaltlichen Differenzierungen. Als Benutzer des _Frühneuhochdeutschen Wörterbuches_ sind aber im wesentlichen Angehörige des tertiären Bildungsbereichs antizipiert, also Historiker, Theologen, Literaturwissenschaftler usw., die nicht fixe Bezugsetzungen unter häufig universalistischen Kriterien vorgegeben haben müssen, sondern die in der Lage sind – und darauf kommt es an, wenn die dauernde Betonung des Benutzerbezugs nicht eine modische Floskel bleiben soll –, solche Bezugsetzungen nach ihren je eigenen Gesichtspunkten aus den Bedeutungserläuterungen selbst vorzunehmen. Dann nämlich kann zum Beispiel die Bedeutung ›Posse [...], Mätzchen‹ aus der Reihe _Handlung von Menschen_ (1.) _gegenüber Menschen_ (1.1.) _allgemein_ (1.1.3.) _zu Zwecken der Unterhaltung_ (1.1.3.2.), _die mimisch, gestisch erfolgt_ (1.1.3.2.2.) herausgelöst und unter die Fragestellung ‚Pejorisierung von ehemals typisch höfischen Wortverwendungen‘ in die Nähe von 1.1.3.1., von 1.1.3.2.1.2., von 3.2., vielleicht auch von 1.1.1.3.2., von 1.1.2\. gestellt werden; oder all dasjenige, was nicht offensichtlich auf den höfischen Bereich bezogen ist, kann unter den Aspekt der Verbürgerlichung ehemals höfischer Bedeutungen gestellt werden. Auch Aspekte wie ‚Moralisierung‘, ‚Realistik‘ usw.[^102]102 wären denkbar, um semasiologische Beziehungen zu stiften.
 
