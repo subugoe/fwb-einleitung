@@ -49,37 +49,22 @@ Rennefahrt, _Wirtsch. Bern._
 
 17.8.2\. Die Priorität der semantischen Aspekte bei der Auswahl der Belege ergibt sich aus dem Charakter des Wörterbuches als Bedeutungswörterbuch; wieder im Hinblick auf den Benutzer formuliert: aus der überragenden Rolle, die den semantischen Informationsanliegen (vgl. 4.3.2.2.) zugemessen wird. Dies heißt negativ, daß die Wiedergabe oder (im Belegstellenteil) der Nachweis von Erstbelegen höchstens eine periphere Rolle spielt. Es ist zumindest für ein synchron angelegtes Wörterbuch nicht einsichtig, daß ein Beleg x nur deshalb wiedergegeben wird, weil er einige Jahre früher als ein semantisch viel aufschlußreicherer Beleg y zu datieren ist. Dies entspräche auch keinem der antizipierten semantischen Benutzungsanliegen. Ins Positive gewendet: Vorrangig werden diejenigen Belege geboten, von denen der Bearbeiter meint, daß sie ihm bei der Erläuterung der Bedeutung von besonderem Nutzen waren, daß sie sich deshalb auch in besonderer Weise für die kritische Prüfung des Bedeutungsansatzes eignen und daß sie für das Verstehenlernen von Texten einen besonderen Beispielwert haben. Welche Belege diese Bedingungen erfüllen, haben die Herausgeber im Probeartikel _abenteuer_ beschrieben, im Artikel über _/arbeit/_ erneut praktiziert (wenn auch nicht eigens thematisiert) und hat der Bearbeiter in einem zum Teil auf Material des _Frühneuhochdeutschen Wörterbuches_ gestützten Artikel[^130] als methodische Richtlinie formuliert. Dies alles soll hier nicht wiederholt, sondern lediglich aufzählend noch einmal zusammengestellt werden. Diejenigen Belege haben den oben gemeinten semantischen Wert,
 
-– in denen das zu belegende Wort in einer Aufzählung bedeutungsähnlicher Wörter steht, aus der die Zugehörigkeit des Wortes zu einem onomasiologischen Feld erschließbar wird
-
-– in denen das zu belegende Wort in einer Mehrfachformel steht, aus der ebenfalls Rückschlüsse auf die Zugehörigkeit zu einem onomasiologischen Feld gezogen werden können
-
-– in denen durch stilistische Mittel (z. B. durch den genitivus definitivus) Art-Gattungs-Zuordnungen geleistet werden
-
-– in denen mindestens zweigliedrige Isotopielinien, z. B. des Musters Specificum/Genus proximum/Genera abstrakterer Stufen/Pronomina begegnen
-
-– in denen explizit Zuordnungen eines Spezielleren zu einem Allgemeineren vorgenommen werden
-
-– in denen stilistische Varianten zu dem zu belegenden Wort geboten werden, aus denen Specifica der Bedeutung erschließbar sind
-
-– in denen aufgelistet wird, was es alles an Specifica zu einem Allgemeinen gibt
-
-– in denen Gegensatzverhältnisse dargestellt werden
-
-– in denen der Weltzusammenhang, auf den mit einem Wort Bezug genommen wird, mit expliziten Prädikationen charakterisiert wird
-
-– in denen nicht ausformulierte, aber aus den Kollokationen, der Wortkompatibilität, der grammatischen Struktur erschließbare Aussagen über den Bezugsgegenstand des Wortes gemacht werden, die Rückschlüsse auf das allgemein akzeptierte Sprachwissen geschichtlicher Kommunikationspartner erlauben
-
-– in denen die Bedeutung schwieriger Wörter (vor allem von Fremd- und Lehnwörtern, von Neologismen, Archaismen, Provinzialismen) schon dem originalen Textrezipienten durch satzgliedintern hinzugefügte allgemeinsprachliche Ausdrücke (z. B. Synonyme, nachgestellte Appositionen) erläutert wird
-
-– die satzgliedübergreifende, zum Teil recht ausführliche textinterne definitionsartige Erläuterungen der Wortbedeutungen enthalten
-
-– die das Wort in phraseologischer oder in sprichwörtlicher Verwendung enthalten
-
-– in denen das Wort in einem Bild gebraucht wird
-
-– in denen das Wort als Tropus (z. B. als Euphemismus, Ironie, Katachrese, Metapher, Metonymie, Synekdoche) verwendet wird
-
-– in denen mit der Wortetymologie gespielt wird.
+* in denen das zu belegende Wort in einer Aufzählung bedeutungsähnlicher Wörter steht, aus der die Zugehörigkeit des Wortes zu einem onomasiologischen Feld erschließbar wird
+* in denen das zu belegende Wort in einer Mehrfachformel steht, aus der ebenfalls Rückschlüsse auf die Zugehörigkeit zu einem onomasiologischen Feld gezogen werden können
+* in denen durch stilistische Mittel (z. B. durch den genitivus definitivus) Art-Gattungs-Zuordnungen geleistet werden
+* in denen mindestens zweigliedrige Isotopielinien, z. B. des Musters Specificum/Genus proximum/Genera abstrakterer Stufen/Pronomina begegnen
+* in denen explizit Zuordnungen eines Spezielleren zu einem Allgemeineren vorgenommen werden
+* in denen stilistische Varianten zu dem zu belegenden Wort geboten werden, aus denen Specifica der Bedeutung erschließbar sind
+* in denen aufgelistet wird, was es alles an Specifica zu einem Allgemeinen gibt
+* in denen Gegensatzverhältnisse dargestellt werden
+* in denen der Weltzusammenhang, auf den mit einem Wort Bezug genommen wird, mit expliziten Prädikationen charakterisiert wird
+* in denen nicht ausformulierte, aber aus den Kollokationen, der Wortkompatibilität, der grammatischen Struktur erschließbare Aussagen über den Bezugsgegenstand des Wortes gemacht werden, die Rückschlüsse auf das allgemein akzeptierte Sprachwissen geschichtlicher Kommunikationspartner erlauben
+* in denen die Bedeutung schwieriger Wörter (vor allem von Fremd- und Lehnwörtern, von Neologismen, Archaismen, Provinzialismen) schon dem originalen Textrezipienten durch satzgliedintern hinzugefügte allgemeinsprachliche Ausdrücke (z. B. Synonyme, nachgestellte Appositionen) erläutert wird
+* die satzgliedübergreifende, zum Teil recht ausführliche textinterne definitionsartige Erläuterungen der Wortbedeutungen enthalten
+* die das Wort in phraseologischer oder in sprichwörtlicher Verwendung enthalten
+* in denen das Wort in einem Bild gebraucht wird
+* in denen das Wort als Tropus (z. B. als Euphemismus, Ironie, Katachrese, Metapher, Metonymie, Synekdoche) verwendet wird
+* in denen mit der Wortetymologie gespielt wird.
 
 17.9\. Das Wörterbuch enthält in reicher Fülle Beleg(stellen)blöcke, die hier als exemplarisch dafür wiedergegeben werden könnten, wie Pragmatik und Semantik des Wortes an Beispielen vorgeführt, dadurch nachprüfbar und lernbar gemacht werden. Besonders hingewiesen sei z. B. auf: _abbrechen_ 10; 11; _abbrechung_ 2; _abbruch_ 3; _abend_ 1; 4; _abenteuer_ 1; 6; 7; 8; 9; 13; _ablas_ 5; 6; 7\. Das Beispiel _ablas_ 6 wird in extenso vorgeführt, aber aus Raumgründen nicht kommentiert. Es dient zugleich als Beispiel für die in 17.8.1\. beschriebene regelhafte Belegstellenfolge:
 
