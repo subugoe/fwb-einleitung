@@ -199,7 +199,7 @@ ist also nicht so zu lesen, als bedeute _abenteuer_ erstens dasjenige, was das n
 Die Distribution des (partiell) synonymischen und des phrastischen Erläuterungstyps in einsprachigen und mehrsprachigen Wörterbüchern sowie nach dem Grade der Äquivalenz, in die erläuterte lexikalische Einheit und Erläuterung unabhängig von ihrer sprachlichen Zugehörigkeit gebracht werden können, zeigt laut lexikographischer Literatur[^86]86 eine gewisse Regelhaftigkeit. Sie wurde zu Übersichtszwecken in das folgende Schema gebracht.
 
 
-![](15.jpg)
+![](images/15.jpg)
 Abb. 15: Schema der Verteilung (partiell) synonymischer/heteronymischer und phrastischer Bedeutungserläuterungen
 
 Dieses Bild suggeriert zugestandenerweise eine größere Regelhaftigkeit, als in der Wörterbuchpraxis realisiert ist (es wird in der lexikographischen Literatur ja auch weniger als Beschreibung eines Zustandes wie als Forderung verstanden). Sieht man von den Übertreibungen einmal ab, dann ergäbe sich folgende Verteilung beider Typen als sinnvoll:
