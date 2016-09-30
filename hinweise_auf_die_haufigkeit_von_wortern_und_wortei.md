@@ -13,9 +13,8 @@ Das Frühneuhochdeutsche ist keine Informanten-, sondern eine Corpussprache, gen
 
 Die Beachtung der vorstehenden beiden Bedingungen führt natürlich zu einer relativ sparsamen Verwendung von Häufigkeitshinweisen. Zwar wurde mir vereinzelt empfohlen, obligatorisch
 
-– hinter jedem Lemma die Gesamtzahl der Belege,
-
-– hinter jeder für eine Häufigkeitsmarkierung in Betracht kommenden Position (also z. B. hinter jeder Wortbedeutung) die Belegquantität für die gerade betroffene Eigenschaft (eventuell in Prozentzahlen, also relativ zu einer Bezugsgröße, darunter vor allem zur Gesamtbelegung)
+* hinter jedem Lemma die Gesamtzahl der Belege,
+* hinter jeder für eine Häufigkeitsmarkierung in Betracht kommenden Position (also z. B. hinter jeder Wortbedeutung) die Belegquantität für die gerade betroffene Eigenschaft (eventuell in Prozentzahlen, also relativ zu einer Bezugsgröße, darunter vor allem zur Gesamtbelegung)
 
 anzugeben; ich habe aber den Sinn einer solch stringenten Dokumentation von Quantitäten für ein languebezogenes Bedeutungswörterbuch nie recht eingesehen[^131].
 
