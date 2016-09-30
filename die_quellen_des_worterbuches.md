@@ -94,7 +94,7 @@ Abb. 4: Die sprachräumliche Verteilung der Quellen
 
 Da eine Gliederung des Frühneuhochdeutschen nach kommunikationsgeschichtlichen Teilepochen als Bezugsgröße für die zeitliche Aufschlüsselung der Quellen nicht möglich ist (vgl. 13.1.2.), wird hier nach Jahrhunderten gegliedert.
 
-![](images/5.jpg)
+![](images/5.png)
 
 Abb. 5: Die Raumverteilung der Quellen in sprachgeographischer Veranschaulichung.
 
