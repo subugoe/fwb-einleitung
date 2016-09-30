@@ -130,7 +130,7 @@ Abb. 8: Die Textsortenzugehörigkeit der Quellen
 
 Die Herausgeber halten das Corpus unter dem Aspekt der Verteilung der Quellen über die einzelnen Varietäten nach den vorangegangenen Aufschlüsselungen insgesamt für ausgewogen. Dieses Urteil gilt sowohl im Hinblick auf das Gesamtspektrum der Varietäten wie im Hinblick auf jede der durch die drei Heterogenitätsdimensionen ‚Raum‘, ‚Zeit‘ und ‚Textsorte‘ bestimmten Varietätengruppen. Sieht man vom DWB einmal ab, gibt es für die umfassend belegten Sprachstufen des Deutschen (seit dem Mittelhochdeutschen) kein allgemeinsprachliches Wörterbuch, das ein ähnlich ausgewogenes Quellencorpus nachgewiesen hätte. Auch den Umfang des Corpus halten die Herausgeber für hinreichend (vgl. dazu auch 6.3.4.4.). Damit ist noch nichts über seine Exzerptionsdichte gesagt (dazu 6.3.4.2.).
 
-![](images/9.jpg)
+![](images/9.png)
 
 Abb. 9: Die Textsortenzugehörigkeit der Quellen im Diagramm
 
