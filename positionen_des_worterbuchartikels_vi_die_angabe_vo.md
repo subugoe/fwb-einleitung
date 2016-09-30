@@ -1,5 +1,5 @@
 ##13\. Positionen des Wörterbuchartikels. VI: die Angabe von Symptomwerten
-**13.1\. Grundlegungen**
+###13.1\. Grundlegungen
 
 Die Angabe von Symptomwerten sollte idealiter genau den Kriterien entsprechen, nach denen sich das Varietätenspektrum der lexikographisch beschriebenen Sprache gliedern läßt. Im Falle des Frühneuhochdeutschen wären also der Raum, die Zeit, die Schicht, die Gruppe, der Situationstyp, die idiolektale Bindung mindestens des Wortes und jeder seiner Bedeutungen, maximal aber auch jeder Wortbildungsvariante, eines besonderen flexivischen Verhaltens, überhaupt einer bestimmten Worteigenschaft zu beschreiben. Im folgenden ist offenzulegen, wie und inwieweit dieses Programm realisiert wurde und welche Artikelpositionen dafür vorgesehen sind. – Bevor dies im einzelnen geschieht, soll vorausgeschickt werden, daß nicht nur der Wörterbuchartikel Information über die Symptomwerte bringt, sondern daß auch das Verzeichnis der Quellen deren räumliche und zeitliche Gültigkeit sowie ihre Textsortenzugehörigkeit angibt. Der Abschnitt 6.3\. _Kritische Prüfung des Corpus_ schlüsselt die Einzelangaben des Quellenverzeichnisses nach Zeit, Raum und Textsorte übersichtartig auf. – Ferner ist vorbereitend darzulegen, welche Raum-, Zeit- und Textsortengliederung den Symptomwertangaben zugrundeliegt.
 
@@ -128,7 +128,7 @@ Im folgenden werden den genannten Gliederungseinheiten diejenigen Textsorten(gru
 
 (8) _Wörterbücher:_ Dictionarien, Vokabularien, Sachglossare, Formulare, Reimwörterbücher, Synonymenwörterbücher, Fremdwörterbücher, Sprichwörterbücher, ein-, mehrsprachige Wörterbücher.
 
-**13.2\. Die Artikelpositionen für die Angabe von Symptomwerten**
+###13.2\. Die Artikelpositionen für die Angabe von Symptomwerten
 
 Symptomwertangaben beziehen sich in der Regel auf die Einzelbedeutung eines Wortes; sie können sich aber auch auf das Wort als Ganzes, auf eine einem bestimmten Lemma zugeordnete Wortbildungsvariante, auf besonderes flexivisches Verhalten oder auf andere Eigenschaften des Wortes beziehen. Dementsprechend sind für die Symptomwertangaben unterschiedliche Positionen des Wortartikels vorgesehen.
 
