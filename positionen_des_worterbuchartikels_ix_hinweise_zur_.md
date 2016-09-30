@@ -3,11 +3,9 @@ Für die Hinweise zur Bildung von Wörtern gilt sinngemäß das zur Syntagmatik 
 
 16.1\. Die Wortbildungshinweise stehen in drei Positionen, und zwar
 
-– im Artikelkopf (dazu 16.1.1.),
-
-– und/oder im Anschluß an die Erläuterung einer Einzelbedeutung (dazu 16.1.2.),
-
-– und/oder im Anschluß an die Angabe typischer Syntagmen (dazu 16.1.3.).
+* im Artikelkopf (dazu 16.1.1.),
+* und/oder im Anschluß an die Erläuterung einer Einzelbedeutung (dazu 16.1.2.),
+* und/oder im Anschluß an die Angabe typischer Syntagmen (dazu 16.1.3.).
 
 Hinweise in der ersteren Position beziehen sich auf das Wort als Ganzheit, Hinweise in den beiden letzteren Positionen auf die Einzelbedeutung.
 
@@ -75,9 +73,8 @@ Im vorangehenden findet sich mehrmals die Wendung _wortbildungssystematisch mög
 
 Die einzelbedeutungsbezogenen Wortbildungshinweise stehen bevorzugt dann,
 
-– wenn ein Morphem a in einer Wortbildung x eine partiell andere Bedeutung hat als in einer Wortbildung y
-
-– oder wenn sich das semasiologische Feld (Signifikat) zweier mit einem Morphem a gebildeter Wörter im Hinblick auf die Anzahl der durch a bestimmten Bedeutungen unterscheidet, am Beispiel: wenn _abbrechen_ mit 17 durch _/abbrech/_ bestimmten Bedeutungen, _abbrechung_ dagegen lediglich mit 4 Bedeutungen aufgeführt wird.
+* wenn ein Morphem a in einer Wortbildung x eine partiell andere Bedeutung hat als in einer Wortbildung y
+* oder wenn sich das semasiologische Feld (Signifikat) zweier mit einem Morphem a gebildeter Wörter im Hinblick auf die Anzahl der durch a bestimmten Bedeutungen unterscheidet, am Beispiel: wenn _abbrechen_ mit 17 durch _/abbrech/_ bestimmten Bedeutungen, _abbrechung_ dagegen lediglich mit 4 Bedeutungen aufgeführt wird.
 
 In beiden Fällen besteht der Verdacht, daß die jeweiligen Unterschiede zwischen den einzelnen Bedeutungen oder zwischen den semasiologischen Feldern der einzelnen Wortbildungen auch durch die Gegebenheiten des Quellencorpus bedingt sind.
 
