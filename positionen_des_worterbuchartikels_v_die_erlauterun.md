@@ -1,4 +1,4 @@
-#12\. Positionen des Wörterbuchartikels. V: die Erläuterung der Bedeutung
+##12\. Positionen des Wörterbuchartikels. V: die Erläuterung der Bedeutung
 Die hier als Erläuterung der Bedeutung eines Wortes bezeichnete wissenschaftliche Handlung ist ohne Zweifel das Kernstück bedeutungslexikographischer Arbeit. Ihr Ergebnis bestimmt jedes Bedeutungswörterbuch und jeden seiner Artikel in konstitutiver Weise; sie ist deshalb auch an dieser Stelle ausführlich zu beschreiben. Dies soll unter folgenden Aspekten geschehen: Aufbau der Erläuterung (12.1.), ihre graphische Gestaltung im Druckbild (12.2.), ihre Funktion (12.3.), ihre Typen und fachsprachliche Form (12.4.), ihre Struktur (12.5.), Anzahl (12.6.) und artikelinterne Ordnung (12.7.) der Einzelbedeutungen.
 
 **12.1\. Der Aufbau der Bedeutungserläuterung**
