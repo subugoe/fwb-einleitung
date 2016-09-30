@@ -1,4 +1,4 @@
-#5\. Der Gegenstand des Wörterbuches
+##5\. Der Gegenstand des Wörterbuches
 Gegenstand des Wörterbuches ist der Wortschatz des Frühneuhochdeutschen. In dieser Aussage sind die Begriffe ‚Frühneuhochdeutsch‘ und ‚Wortschatz‘ zu erläutern, ersterer unter dem Gesichtspunkt der Diagliederung, letzterer unter dem Aspekt der Stichwortauswahl.
 
 **5.1\. Zum Begriff ‚Frühneuhochdeutsch‘**
