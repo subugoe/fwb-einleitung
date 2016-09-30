@@ -73,7 +73,7 @@ Die Punkte (1) und (2) sind nicht ernsthaft zu bezweifeln; Punkt (3) mag in nich
 
 4\. Östliches Inseldeutsch (als zusammenfassende Bezeichnung für alle östlichen Sprachinseln außerhalb des geschlossenen deutschen Sprachraumes, mit Ausnahme des Hochpreußischen, das wegen der Größe des Gebietes unter 2.2.1\. aufgeführt ist), darunter ungarisches, slowakisches, schlesisches, siebenbürgisches Inseldeutsch.
 
-![](119.jpg)
+![](images/119.jpg)
 (Karte: Deutscher Mundartraum vor 1945)
 
 13.1.1.4\. Die Raumangaben zu den Quellen haben im Durchschnitt den Feinheitsgrad, der durch den jeweils letzten Ordnungspunkt obiger Gliederung angegeben ist, also z. B. _thür._ oder _osächs._ In Einzelfällen kann eine Zuordnung zu einer größeren (z. B. _md._) oder zu einer kleineren (z. B. _whalem._) Raumeinheit erfolgen. Die Gründe variieren von Quelle zu Quelle.
