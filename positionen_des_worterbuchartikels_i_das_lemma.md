@@ -71,15 +71,11 @@ g) Adverbialbildungen auf _-lich_ (oder Varianten) beziehungsweise solche mit de
 
 Die Entscheidung über die Einheit des Wortes ist zugleich die Entscheidung darüber, ob ein einziges oder ob mehrere Lemmata angesetzt werden. Sie erfolgt unter Abwägung folgender Kriterien:
 
-– sprachstrukturelle Erkennbarkeit der Wortbildungsmorpheme
-
-– sprachgeschichtliche Zuordenbarkeit der Wortbildungsmorpheme
-
-– semantische Äquivalenz bzw. Grad der Differenz der einzelnen Bildungen
-
-– Frequenz der einzelnen Vorkommensformen
-
-– Lemmatisierungskonventionen der Lexikographie des Deutschen, die zum Beispiel für die Nennwortarten eher darauf hinauslaufen, mehrere Lemmata anzusetzen als für die Partikeln.
+* sprachstrukturelle Erkennbarkeit der Wortbildungsmorpheme
+* sprachgeschichtliche Zuordenbarkeit der Wortbildungsmorpheme
+* semantische Äquivalenz bzw. Grad der Differenz der einzelnen Bildungen
+* Frequenz der einzelnen Vorkommensformen
+* Lemmatisierungskonventionen der Lexikographie des Deutschen, die zum Beispiel für die Nennwortarten eher darauf hinauslaufen, mehrere Lemmata anzusetzen als für die Partikeln.
 
 Die Kriterien überlagern einander. Sie sind mithin zu gewichten und bei jeder Einzelentscheidung gegeneinander abzuwägen. Die Gewichtungen sehen wie folgt aus:
 
