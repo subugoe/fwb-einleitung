@@ -1,7 +1,7 @@
 ##12\. Positionen des Wörterbuchartikels. V: die Erläuterung der Bedeutung
 Die hier als Erläuterung der Bedeutung eines Wortes bezeichnete wissenschaftliche Handlung ist ohne Zweifel das Kernstück bedeutungslexikographischer Arbeit. Ihr Ergebnis bestimmt jedes Bedeutungswörterbuch und jeden seiner Artikel in konstitutiver Weise; sie ist deshalb auch an dieser Stelle ausführlich zu beschreiben. Dies soll unter folgenden Aspekten geschehen: Aufbau der Erläuterung (12.1.), ihre graphische Gestaltung im Druckbild (12.2.), ihre Funktion (12.3.), ihre Typen und fachsprachliche Form (12.4.), ihre Struktur (12.5.), Anzahl (12.6.) und artikelinterne Ordnung (12.7.) der Einzelbedeutungen.
 
-**12.1\. Der Aufbau der Bedeutungserläuterung**
+###12.1\. Der Aufbau der Bedeutungserläuterung
 
 So wie die Gesamtbedeutung eines Wortes als aus einer (Monosemie) oder mehreren (Polysemie) Einzelbedeutungen bestehend aufgefaßt werden kann, so besteht die Bedeutungserläuterung aus einer oder mehreren Erläuterungs_positionen;_ sie besteht ferner aus einem oder mehreren Erläuterungs_teilen._ Beide Gegebenheiten können sich überschneiden: Eine einzige Erläuterungsposition kann sich aus mehreren Erläuterungsteilen zusammensetzen, und ein einziger Erläuterungsteil kann sich auf mehrere Erläuterungspositionen beziehen.
 
@@ -71,7 +71,7 @@ gegenüber
 
 **ablas** [...] 6\. ›Nachlaß oder Erlaß der Sündenschuld und [...] Sündenstrafen [...]‹. Ablässe wurden vor allem an kirchlichen Festtagen erteilt [...].
 
-12.2\. Die typographische Gestaltung der Bedeutungserläuterung
+###12.2\. Die typographische Gestaltung der Bedeutungserläuterung
 
 Alle Erläuterungsteile stehen in normaler Schriftgröße und heben sich dadurch von den in Petit gesetzten Belegen und Belegstellenangaben ab, die hier mithin nicht zur Bedeutungserläuterung gerechnet werden. Speziell der Erläuterungsteil ‚Bedeutungsangabe‘ steht in einfachen, nach außen gerichteten französischen Anführungszeichen (Häkchen), vgl.
 
@@ -79,7 +79,7 @@ Alle Erläuterungsteile stehen in normaler Schriftgröße und heben sich dadurch
 
 Die einzelnen Erläuterungspositionen werden von Ausnahmen abgesehen (vgl. dazu 12.5.) nach Zahlen fortlaufend geordnet und graphisch jeweils durch einen gegenüber dem vorangehenden Artikelkopf (für die erste Position) bzw. gegenüber dem Belegblock der vorangehenden Bedeutungsposition leicht vergrößerten Durchschuß und zusätzlich durch eine neu beginnende, geringfügig nach rechts eingezogene Zeile gekennzeichnet.
 
-**12.3\. Die Funktion der Bedeutungserläuterung**
+###12.3\. Die Funktion der Bedeutungserläuterung
 
 Die Funktion der Bedeutungserläuterung besteht zusammengefaßt darin, den ihr zufallenden Teil dazu beizutragen, dem Benutzer Antwort auf seine Fragen zu geben. Um dies auch terminologisch zum Ausdruck zu bringen, wird hier ja fortwährend von _Erläuterung_ gesprochen. Konkurrierende Bezeichnungen wie _Bedeutungsanalyse, -beschreibung, -definition, -explikation_[^79] werden deshalb nicht verwendet, weil sie als Ableitungen zweiwertiger Verben lediglich den Sachbezug dieser in Wirklichkeit intentionalen wissenschaftlichen Handlung zum Ausdruck bringen: _man analysiert/beschreibt/definiert/expliziert etwas;_ daß man dies nach der hier vertretenen Auffassung von Lexikographie immer für einen Benutzer tut, wird adäquater durch eine Ableitung von einem Verb bezeichnet, das den Benutzer zumindest fakultativ mitzusetzen verlangt: _Man erläutert jemandem etwas._
 
@@ -134,7 +134,7 @@ Von den folgenden Beispielen soll das erste eine wirtschaftsgeschichtliche, das 
 
 **abblasen** [...] 4\. „›das Fleisch des geschlachteten kleinen Viehes (Lämmer, Hämmel, Kälber) abblasen‹, als Unsitte der Metzger seit dem 16\. Jh. bezeugt.“ – Wrede, Aköln. Sprachsch. 6 b [...].
 
-**12.4\. Typen und fachsprachliche Formen der Bedeutungserläuterung**
+###12.4\. Typen und fachsprachliche Formen der Bedeutungserläuterung
 
 Sowohl im Abschnitt über den Aufbau der Bedeutungserläuterung (12.1.) wie im Abschnitt über ihre Funktion (12.3.) gab es immer wieder Formulierungen, die auch ihre Typik und fachsprachliche Gestaltung berührten, sie aber deshalb nicht ausführten, weil aus analytischen Gründen zwischen den Gesichtspunkten ‚Aufbau‘, ‚Funktion‘ und ‚Typik plus Sprachform‘ der Erläuterung geschieden werden sollte. Unter synthetischem Aspekt heißt dies natürlich, daß das eine nicht ohne das andere verständlich wird und daß alle Ausführungen zur Bedeutungserläuterung deshalb fortwährend aufeinander bezogen werden müssen.
 
@@ -278,7 +278,7 @@ Umgekehrt: Immer dann, wenn Prädikationen deutlich ungesichert sind, kann ein a
 
 Die Bedeutungserläuterung enthält in allen drei Fällen in der Bedeutungsangabe Synonymenreihen; dieser Typ der Erläuterung ist also auch für Partikeln möglich. Die Erläuterungen sind ferner komplex; es werden Hinweise auf die Rolle von _aber_ im Erzähl- und Argumentationszusammenhang, auf seine Stellung im Satz- und Textganzen sowie auf seine Semantik gegeben. Insgesamt wird nachgezeichnet, wie ein Autor mit Hilfe von Wörtern des Typs _aber_ Texte gliedert, Aussagen weiterlaufen läßt oder verstärkt. Die Fachsprache der Erläuterung nähert sich textgrammatischer Fachsprache[^97].
 
-**12.5\. Die Struktur der Bedeutungserläuterung**
+###12.5\. Die Struktur der Bedeutungserläuterung
 
 Dieser Abschnitt diskutiert die unter 12.3.3\. angedeutete Frage, auf welche Weise der semasiologische Stellenwert der Einzelbedeutung dem Benutzer sichtbar gemacht werden kann, bedeutungstheoretisch formuliert, wie die Einzelbedeutungen eines Wortes in den Bedeutungserläuterungen, speziell in den Bedeutungsangaben strukturell miteinander verbunden werden. Die Antwort auf die Frage ist durch die Ausführungen zur Erläuterungstypologie bereits vorgezeichnet, insbesondere durch die Aussage, die Erläuterung sei von ihrem Grundtyp her eine intentionale Handlung von Lexikographen gegenüber Wörterbuchbenutzern und nicht wertfreie Beschreibung eines Sachverhaltes (vgl. 12.4.).
 
@@ -396,7 +396,7 @@ Noch entscheidender scheint mir folgende Crux der generisch ausgliedernden Bedeu
 
 Abb. 17: Verknüpfung der Bedeutungen eines semasiologischen Feldes durch normalsprachliche Erläuterungen am Beispiel von _abenteuer,_ Bedeutung 1.
 
-**12.6\. Die Anzahl der Einzelbedeutungen**
+###12.6\. Die Anzahl der Einzelbedeutungen
 
 Die Frage, wieviele Bedeutungen pro Einzelwort anzusetzen sind, stellt sich nahezu für jede lexikalische Einheit[^103]\. Es ist zugleich die Frage nach dem Generizitätsgrad der Bedeutungen, nach ihrer Identifikation und nach ihrer wechselseitigen Abgrenzbarkeit.
 
@@ -541,7 +541,7 @@ Noch gewichtiger scheint mir ein Drittes: Wenn eine linguistische Begründung, s
 
 12.6.11\. Um die vielen Entscheidungsfälle, die trotz aller vorgetragenen linguistischen und außerlinguistischen Kriterien begegnen, als solche kennbar zu machen, wurden innerhalb einer einzigen Bedeutungsposition zwei unterschiedliche graphische Mittel verwendet, erstens das Komma und zweitens das Semikolon. Die durch Kommata abgetrennten Erläuterungsteile sind sprachlich jeweils unterschiedlich gestaltete Annäherungsformulierungen für etwas, das als semantische Einheit aufgefaßt wird. Die durch Semikolon abgetrennten Erläuterungsteile, die ihrerseits wieder aus durch Kommata gegliederten Subteilen bestehen können, sind Erläuterungen für etwas, dem der Status einer Variante einer semantischen Einheit zugeschrieben wird. Kommata und Semikola innerhalb der Bedeutungserläuterung sind also beschreibungssprachliche Symbole.
 
-**12.7\. Die artikelinterne Ordnung der Einzelbedeutungen**
+###12.7\. Die artikelinterne Ordnung der Einzelbedeutungen
 
 Die Frage nach der artikelinternen Ordnung der Einzelbedeutungen wird in Wörterbucheinleitungen in aller Regel angeschnitten und auch für synchrone Wörterbücher durch Entscheidungen der folgenden Art beantwortet:[^108]
 
