@@ -17,29 +17,18 @@ Abb. 3: Die Vertikalisierung der Varietäten des Neuhochdeutschen
 
 5.1.2\. Das Varietätenspektrum des Frühneuhochdeutschen läßt sich nach den Kriterien ‚sprachlicher Handlungsraum‘, ‚kommunikationsgeschichtlich abgrenzbare Zeiteinheit‘, ‚für das Sprachhandeln relevante soziale Schicht‘, ‚kommunikativ bestimmte Gruppe‘, ‚kommunikativ relevanter Situationstyp‘ und ‚sprachlicher Handlungsspielraum des Individuums‘ überschaubar machen. Da sich diese Kriterien nicht ausschließen, können keine 1:1-Zuordnungen von Kriterium und Varietät erfolgen, etwa in der Weise, daß z. B. dem Raumkriterium die Varietät ‚Dialekt‘ entspräche. Vielmehr ist mit mannigfachen Überlappungen und innerhalb dieser mit unterschiedlichen Gewichtungen zu rechnen. Folgende Varietäten spielen in der sprachgeschichtlichen Realität des Frühneuhochdeutschen eine besondere Rolle:
 
-– _Dialekte_ als raumgebundene, in der damaligen Zeit von allen Sozialschichten vorwiegend in sprechsprachlichen Situationen gebrauchte Varietäten,
-
-– _landschaftliche Schreibsprachen,_ auch _Schreibdialekte_ genannt, als gemäßigt raumgebundene, sozial mittel- bis oberschichtig bestimmte, in schriftlicher Kommunikation gebrauchte Varietäten,
-
-– _Geschäftssprachen_ als ebenfalls gemäßigt raumgebundene, sozial mittel- bis oberschichtig bestimmte, vorwiegend in schriftlicher Kommunikation gebrauchte Varietäten, die gegenüber den landschaftlichen Schreibsprachen aber speziell an die Kommunikationsbereiche von Handel, Verkehr und Verwaltung gebunden sind,
-
-– _(landschaftliche) Druckersprachen_ als Varietäten, die anfangs wie die Schreibsprachen bestimmt sind, sich aber mit dem Fortschreiten der Geschichte zunehmend aus ihren landschaftlichen Bindungen lösen,
-
-– _Historiolekte_ als für kommunikationsgeschichtlich abgrenzbare Zeiteinheiten typische Varietäten, wobei zu beachten ist, daß solche Zeiteinheiten je nach Gruppe, Schicht, Raum und situationsgebundenen Handlungsinteressen der Sprachträger (z. B. Archaisierungsinteresse) von sehr unterschiedlicher Dauer sein können. Für geschriebene Texte ist die Rezeptionszeit mit in Anschlag zu bringen,
-
-– _Soziolekte_ als sozialschichtig bestimmte, sowohl geschriebene wie gesprochene, in der gesprochenen Form im Hinblick auf Überregionalität der geschriebenen Form nachhinkende Varietäten,
-
-– _Fachsprachen_ als vorwiegend mittelschichtige, sich aus der Arbeitsorganisation ergebende, geschriebene wie gesprochene, in der geschriebenen Form mit dem Fortschreiten der Sprachgeschichte wie die Soziolekte stärker zu Überregionalität tendierende Varietäten als in der gesprochenen Form,
-
-– _Sondersprachen_ als vorwiegend gesprochene, je nach Wertbewußtsein der Gruppe vor allem gegen Ende der Epoche auch geschriebene, gruppenbestimmte Varietäten,
-
-– _textsortenspezifische Idiome_ als vom kommunikativ relevanten Situationstyp her bestimmte, je nach Typ geschriebene oder gesprochene Varietäten,
-
-– _Ausläufer mittelhochdeutscher und Ansätze frühneuhochdeutscher Literatursprachen_ als vorwiegend geschriebene, mindestens mittel-, eher hochschichtige, aber nicht nur schichten-, sondern auch gruppengebundene, im engeren Sinne von literarischen Situationstypen her, im weiteren Sinne vom Bildungsbereich her bestimmte Varietäten,
-
-– die aus den Ansätzen frühneuhochdeutscher Literatursprachen sich gegen Ende der Epoche entwickelnde, zunehmend vereinheitlichte _Schriftsprache_ als hochschichtig bestimmte, geschriebene Varietät mit Leitbildfunktion tendenziell in allen Kommunikationsbereichen,
-
-– _Idiolekte_ als gesprochene und bei Bindung an gehobenere Schichten partiell geschriebene Varietäten.
+* _Dialekte_ als raumgebundene, in der damaligen Zeit von allen Sozialschichten vorwiegend in sprechsprachlichen Situationen gebrauchte Varietäten,
+* _landschaftliche Schreibsprachen,_ auch _Schreibdialekte_ genannt, als gemäßigt raumgebundene, sozial mittel- bis oberschichtig bestimmte, in schriftlicher Kommunikation gebrauchte Varietäten,
+* _Geschäftssprachen_ als ebenfalls gemäßigt raumgebundene, sozial mittel- bis oberschichtig bestimmte, vorwiegend in schriftlicher Kommunikation gebrauchte Varietäten, die gegenüber den landschaftlichen Schreibsprachen aber speziell an die Kommunikationsbereiche von Handel, Verkehr und Verwaltung gebunden sind,
+* _(landschaftliche) Druckersprachen_ als Varietäten, die anfangs wie die Schreibsprachen bestimmt sind, sich aber mit dem Fortschreiten der Geschichte zunehmend aus ihren landschaftlichen Bindungen lösen,
+* _Historiolekte_ als für kommunikationsgeschichtlich abgrenzbare Zeiteinheiten typische Varietäten, wobei zu beachten ist, daß solche Zeiteinheiten je nach Gruppe, Schicht, Raum und situationsgebundenen Handlungsinteressen der Sprachträger (z. B. Archaisierungsinteresse) von sehr unterschiedlicher Dauer sein können. Für geschriebene Texte ist die Rezeptionszeit mit in Anschlag zu bringen,
+* _Soziolekte_ als sozialschichtig bestimmte, sowohl geschriebene wie gesprochene, in der gesprochenen Form im Hinblick auf Überregionalität der geschriebenen Form nachhinkende Varietäten,
+* _Fachsprachen_ als vorwiegend mittelschichtige, sich aus der Arbeitsorganisation ergebende, geschriebene wie gesprochene, in der geschriebenen Form mit dem Fortschreiten der Sprachgeschichte wie die Soziolekte stärker zu Überregionalität tendierende Varietäten als in der gesprochenen Form,
+* _Sondersprachen_ als vorwiegend gesprochene, je nach Wertbewußtsein der Gruppe vor allem gegen Ende der Epoche auch geschriebene, gruppenbestimmte Varietäten,
+* _textsortenspezifische Idiome_ als vom kommunikativ relevanten Situationstyp her bestimmte, je nach Typ geschriebene oder gesprochene Varietäten,
+* _Ausläufer mittelhochdeutscher und Ansätze frühneuhochdeutscher Literatursprachen_ als vorwiegend geschriebene, mindestens mittel-, eher hochschichtige, aber nicht nur schichten-, sondern auch gruppengebundene, im engeren Sinne von literarischen Situationstypen her, im weiteren Sinne vom Bildungsbereich her bestimmte Varietäten,
+* die aus den Ansätzen frühneuhochdeutscher Literatursprachen sich gegen Ende der Epoche entwickelnde, zunehmend vereinheitlichte _Schriftsprache_ als hochschichtig bestimmte, geschriebene Varietät mit Leitbildfunktion tendenziell in allen Kommunikationsbereichen,
+* _Idiolekte_ als gesprochene und bei Bindung an gehobenere Schichten partiell geschriebene Varietäten.
 
 5.1.3\. Diese Aufzählung und kurze Charakterisierung der wichtigsten Varietätengruppen des Frühneuhochdeutschen erfolgte erstens ohne Angabe ihrer räumlichen und zeitlichen Geltung und zweitens ohne Berücksichtigung des methodischen Problems, inwieweit sie direkt aus schriftlichen Quellen noch erkennbar oder durch besondere methodische Verfahren philologisch erschließbar sind. Ersteres wird im folgenden, letzteres unter 5.2.2.2.1\. behandelt.
 
