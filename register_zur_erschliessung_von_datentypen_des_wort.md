@@ -3,23 +3,15 @@
 
 21.1.1\. Semasiologische Wörterbücher werden im Gegensatz zu onomasiologischen Wörterbüchern, die in der Regel wenigstens ein alphabetisches Register der behandelten Wörter enthalten, durchgehend ohne jede Aufbereitung der in ihnen gegebenen Daten publiziert. Es geht mir in diesem Kapitel darum, bewußt zu machen, daß prinzipiell jeder Informationstyp des semasiologischen Wörterbuches auf eine besondere Weise gekennzeichnet werden kann, daß dadurch alle Vorkommen der einzelnen Informationstypen aus dem Wörterbuchgesamttext herausgeschnitten und nach gewünschten Gesichtspunkten geordnet werden können. Dies letztere geschieht heute am kostengünstigsten unter Zuhilfenahme des Computers, dessen eigentliche Leistungsfähigkeit in der schnellen Bewältigung von Ordnungsaufgaben besteht. Im folgenden werden diejenigen Register genannt, deren Realisierung m. E. von besonderem wissenschaftlichem und praktischem Nutzen wäre:
 
-1\. eine rückläufige Lemmaliste,
-
-2\. ein Register aller Wortvarianten, darunter Einzelregister nach dem Variantentyp, z. B. Register aller Hyperkorrekturen,
-
-3\. Register aller Wörter gleicher Flexionsklasse, darunter z. B. Register aller ablautenden Verben, aller rückumlautenden Verben, aller substantivischer Flexionsklassen usw. (etwa so: _-(e) s/-e_ → _Wort_ 1, _Wort_ 2, _Wort_ 3 ... _Wort_ n),
-
-4\. Register aller mit besonderen Typen etymologischer Hinweise versehenen Wörter, darunter Fremdwortregister, Register von Volksetymologien,
-
-5\. ein Register des Erläuterungswortschatzes als Voraussetzung für die onomasiologische Aufbereitung des Wörterbuches,
-
-6\. Register aller mit Symptomwertangaben markierten Wörter, und zwar geordnet nach Raum (subgeordnet nach Einzellandschaften), Zeit, Textsorte (für den Raum etwa so: Ostoberdeutsch: _Wort_ 1, _Wort_ 2 ... _Wort_ n; oder so: _Wort_ 1 in Bedeutung ‚a‘; _Wort_ 2 in Bedeutung ‚b‘ ... _Wort_ n in Bedeutung ‚n‘; entsprechend für die anderen Dimensionen),
-
-7\. ein Register aller in onomasiologischen Feldern angegebenen Wörter,
-
-8\. ein Register aller in den Syntagmen angegebenen Wörter,
-
-9\. ein Register aller Wortformen aller Belege, also ein Belegformen-(= Schreibformen-)register.
+1. eine rückläufige Lemmaliste,
+2. ein Register aller Wortvarianten, darunter Einzelregister nach dem Variantentyp, z. B. Register aller Hyperkorrekturen,
+3. Register aller Wörter gleicher Flexionsklasse, darunter z. B. Register aller ablautenden Verben, aller rückumlautenden Verben, aller substantivischer Flexionsklassen usw. (etwa so: _-(e) s/-e_ → _Wort_ 1, _Wort_ 2, _Wort_ 3 ... _Wort_ n),
+4. Register aller mit besonderen Typen etymologischer Hinweise versehenen Wörter, darunter Fremdwortregister, Register von Volksetymologien,
+5. ein Register des Erläuterungswortschatzes als Voraussetzung für die onomasiologische Aufbereitung des Wörterbuches,
+6. Register aller mit Symptomwertangaben markierten Wörter, und zwar geordnet nach Raum (subgeordnet nach Einzellandschaften), Zeit, Textsorte (für den Raum etwa so: Ostoberdeutsch: _Wort_ 1, _Wort_ 2 ... _Wort_ n; oder so: _Wort_ 1 in Bedeutung ‚a‘; _Wort_ 2 in Bedeutung ‚b‘ ... _Wort_ n in Bedeutung ‚n‘; entsprechend für die anderen Dimensionen),
+7. ein Register aller in onomasiologischen Feldern angegebenen Wörter,
+8. ein Register aller in den Syntagmen angegebenen Wörter,
+9. ein Register aller Wortformen aller Belege, also ein Belegformen-(= Schreibformen-)register.
 
 21.1.2\. Der oben angesprochene „besondere [...] Nutzen“ der Register dieses Kataloges ist philologischer und/oder methodischer und/oder benutzungspraktischer Art:
 
