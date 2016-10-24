@@ -39,11 +39,9 @@ wer also so fragt, wird ohne Antwort bleiben, es sei denn, er lese ein ganzes se
 
 21.2.2.1\. Aus den Bedeutungserläuterungen sind nun in einem ersten Verfahrensschritt all diejenigen Ausdrücke herauszuheben, die jeweils als Kandidaten zur Bezeichnung der einzelnen Begriffe einer als Teilziel des ganzen Verfahrens erstrebten Begriffsliste in Betracht kommen. Diese Ausdrücke müssen im Normalfall die folgenden drei Bedingungen erfüllen:
 
-(1) Sie müssen den lexikalischen Rängen der Sprache angehören.
-
-(2) Sie müssen der gleichen Wortart angehören wie das Lemma des jeweiligen Wortartikels.
-
-(3) Sie müssen zum Lemma im Synonymie- oder im partiellen Synonymieverhältnis stehen.
+1. Sie müssen den lexikalischen Rängen der Sprache angehören.
+2. Sie müssen der gleichen Wortart angehören wie das Lemma des jeweiligen Wortartikels.
+3. Sie müssen zum Lemma im Synonymie- oder im partiellen Synonymieverhältnis stehen.
 
 In der Bedeutungserläuterung von _arbeit_ 6 erfüllen die kursiv gesetzten Ausdrücke, bei Komposita (vgl. _Erwerbstätigkeit_) oft zusätzlich deren Grundwörter diese Bedingungen. Der synonymische und der partiell synonymische sowie der phrastische, genus proximum und differentia specifica angebende Erläuterungstyp eignen sich am unproblematischsten für das Verfahren. Schwierigkeiten, die einige funktional bestimmte Erläuterungstypen bereiten, sind durch Modifikationen der drei Bedingungen behebbar.
 
