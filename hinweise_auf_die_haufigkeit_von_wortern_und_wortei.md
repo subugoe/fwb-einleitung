@@ -7,9 +7,8 @@ Das Frühneuhochdeutsche ist keine Informanten-, sondern eine Corpussprache, gen
 
 18.1.2\. Die expliziten Häufigkeitshinweise, die im folgenden den alleinigen Gegenstand der Darstellung bilden, finden sich immer nur dann, wenn mindestens eine der nachstehend genannten Bedingungen zutrifft, nämlich:
 
-(1) wenn der Belegbefund unter quantitativem Gesichtspunkt so auffallend ist, daß er gleichsam zu einem Hinweis auf die Häufigkeitsverhältnisse zwingt, sofern diese Verhältnisse nicht schon durch die impliziten Hinweise erkennbar sind,
-
-(2) wenn der Lexikograph den Wörterbuchbenutzer auf Gegebenheiten aufmerksam machen möchte, die nach seinem Urteil sprachgeschichtlich besonders interessant sind, z. B. auf Wort- oder Worteigenschaftsvariation in einer der pragmatischen Verwendungsdimensionen (Raum, Zeit usw., vgl. 5.1.2.) als Vorstufe für Wortwandel. In diesem Falle besteht ein fließender Übergang zwischen Häufigkeitshinweisen und lexikographischem Kommentar (vgl. 19.).
+1. wenn der Belegbefund unter quantitativem Gesichtspunkt so auffallend ist, daß er gleichsam zu einem Hinweis auf die Häufigkeitsverhältnisse zwingt, sofern diese Verhältnisse nicht schon durch die impliziten Hinweise erkennbar sind,
+2. wenn der Lexikograph den Wörterbuchbenutzer auf Gegebenheiten aufmerksam machen möchte, die nach seinem Urteil sprachgeschichtlich besonders interessant sind, z. B. auf Wort- oder Worteigenschaftsvariation in einer der pragmatischen Verwendungsdimensionen (Raum, Zeit usw., vgl. 5.1.2.) als Vorstufe für Wortwandel. In diesem Falle besteht ein fließender Übergang zwischen Häufigkeitshinweisen und lexikographischem Kommentar (vgl. 19.).
 
 Die Beachtung der vorstehenden beiden Bedingungen führt natürlich zu einer relativ sparsamen Verwendung von Häufigkeitshinweisen. Zwar wurde mir vereinzelt empfohlen, obligatorisch
 
@@ -22,20 +21,12 @@ Daraus ergibt sich, daß statt absoluter Zahlen ausschließlich normalsprachlich
 
 18.2\. Häufigkeitshinweise können prinzipiell in jeder Artikelposition vorkommen; ihre typische Form wird im folgenden an Beispielen [durch Pfeile anschaulich herausgehoben] vorgeführt und – falls notwendig – kurz kommentiert:
 
-(1) zum Wort als Ganzem, vgl.: **abspringen** [...]; [→] schwach belegt. – Es handelt sich hierbei um einen lexikographischen Kommentar zur Belegquantität, der gemäß 18.1.2., Punkt (1), angebracht wurde, um die im Vergleich zum DWB, Neub., zu Wrede, Aköln. Sprachsch. (usw.) schwache Belegung bewußt zu machen.
-
-(2) zu Wortvarianten, vgl.: **abbrennen** ([→] auch mit _r_-Metathese [...]); **abrechen,** [→] häufig <sup>1</sup>_abrechnen._
-
-(3) zur Morphologie, vgl. (für das Genus): <sup>2</sup>**abzucht** [→] meist _die,_ [→] seltener _der;_ (für die Flexion): **abenteuer** [...]; -, [→] seltener: _-s/-Ø_; (für die Wortbildungsmorphologie): **abgrund** [...], daneben _abgründe_ [...]; letztere Form im 14\. und 15\. Jh. [→] vorherrschend.
-
-(4) zur etymologischen Entwicklung, vgl. <sup>2</sup>**abzucht** [...] volksetymologische Formgebung, nach der die zweite Silbe [→] überwiegend zu _-zucht,_ die erste [→] tendenziell zu _ab-_ wird.
-
-(5) zur Bedeutungserläuterung, und zwar a) zu Aspekten des gesamten Bedeutungsspektrums, b) zu Einzelbedeutungen, c) zu Varianten der Einzelbedeutungen, vgl. (ad a): **abfaren** [...]; [→] meist in fachsprachlichen und figürlichen Verwendungen belegt; (ad b): **abendmal** [...]. 1\. ›Abendmahlzeit [...]‹. [...] [→] schwach belegt; (ad c): **abtragen** [...], 2\. ›[...] etw. [→] (meist Geld) unterschlagen [...]‹; **abtrennen** [...]. 1\. ›[...] sich von etw. lösen [...]‹; [...] [→] z. T. in bildl. Verwendung.
-
-(6) zu den Symptomwortangaben, vgl. (zum Raum): **abenteuer** [...]. 1\. ›[...] ritterliche Bewährungsprobe [...]‹. [...]. – [→] Vorw. obd., [→] gehäuft wobd.; (zur Zeit): **abscheu** [...]. – [→] Vorw. späteres Frnhd.; (zur Textsorte): **abtreiben** [...]. 10\. ›[...] (die Leibesfrucht) abtreiben‹. – [→] Vorw. rechtsgeschichtliche Texte.
-
-(7) Zur onomasiologischen Vernetzung einer Bedeutung, vgl.: **abenteuer** [...]. 9\. ›Posse [...]‹. – Bdv.: _posse_ [→] (mehrmals).
-
-(8) zur Syntax, vgl.: **abbrechen** [...]. 15\. ›mit etw. aufhören [...]‹. – [→] Meist ohne Obj.; **abtun** [...]. 2\. ›etw. (z. B. eine Haltung) aufgeben [...]‹. [...]. – Synt.: [→] meist mit Gen. d. P. oder S. [...]; [→] selten mit Akk.; **abenteuer** [...]. 1\. ›[...] ritterliche Bewährungsprobe [...]‹. [...] – Synt.: _a. suchen_ (→) [oft].
-
-(9) zu bestimmten Belegtypen, vgl.: **abend** [...]. – [→] Besonders häufig sind sprichwörtliche [...] Verwendungen. – Es handelt sich hierbei um einen lexikographischen Kommentar zur Quantität bestimmter Typen von Belegbeispielen.
+1. zum Wort als Ganzem, vgl.: **abspringen** [...]; [→] schwach belegt. – Es handelt sich hierbei um einen lexikographischen Kommentar zur Belegquantität, der gemäß 18.1.2., Punkt (1), angebracht wurde, um die im Vergleich zum DWB, Neub., zu Wrede, Aköln. Sprachsch. (usw.) schwache Belegung bewußt zu machen.
+2. zu Wortvarianten, vgl.: **abbrennen** ([→] auch mit _r_-Metathese [...]); **abrechen,** [→] häufig <sup>1</sup>_abrechnen._
+3. zur Morphologie, vgl. (für das Genus): <sup>2</sup>**abzucht** [→] meist _die,_ [→] seltener _der;_ (für die Flexion): **abenteuer** [...]; -, [→] seltener: _-s/-Ø_; (für die Wortbildungsmorphologie): **abgrund** [...], daneben _abgründe_ [...]; letztere Form im 14\. und 15\. Jh. [→] vorherrschend.
+4. zur etymologischen Entwicklung, vgl. <sup>2</sup>**abzucht** [...] volksetymologische Formgebung, nach der die zweite Silbe [→] überwiegend zu _-zucht,_ die erste [→] tendenziell zu _ab-_ wird.
+5. zur Bedeutungserläuterung, und zwar a) zu Aspekten des gesamten Bedeutungsspektrums, b) zu Einzelbedeutungen, c) zu Varianten der Einzelbedeutungen, vgl. (ad a): **abfaren** [...]; [→] meist in fachsprachlichen und figürlichen Verwendungen belegt; (ad b): **abendmal** [...]. 1\. ›Abendmahlzeit [...]‹. [...] [→] schwach belegt; (ad c): **abtragen** [...], 2\. ›[...] etw. [→] (meist Geld) unterschlagen [...]‹; **abtrennen** [...]. 1\. ›[...] sich von etw. lösen [...]‹; [...] [→] z. T. in bildl. Verwendung.
+6. zu den Symptomwortangaben, vgl. (zum Raum): **abenteuer** [...]. 1\. ›[...] ritterliche Bewährungsprobe [...]‹. [...]. – [→] Vorw. obd., [→] gehäuft wobd.; (zur Zeit): **abscheu** [...]. – [→] Vorw. späteres Frnhd.; (zur Textsorte): **abtreiben** [...]. 10\. ›[...] (die Leibesfrucht) abtreiben‹. – [→] Vorw. rechtsgeschichtliche Texte.
+7. Zur onomasiologischen Vernetzung einer Bedeutung, vgl.: **abenteuer** [...]. 9\. ›Posse [...]‹. – Bdv.: _posse_ [→] (mehrmals).
+8. zur Syntax, vgl.: **abbrechen** [...]. 15\. ›mit etw. aufhören [...]‹. – [→] Meist ohne Obj.; **abtun** [...]. 2\. ›etw. (z. B. eine Haltung) aufgeben [...]‹. [...]. – Synt.: [→] meist mit Gen. d. P. oder S. [...]; [→] selten mit Akk.; **abenteuer** [...]. 1\. ›[...] ritterliche Bewährungsprobe [...]‹. [...] – Synt.: _a. suchen_ (→) [oft].
+9. zu bestimmten Belegtypen, vgl.: **abend** [...]. – [→] Besonders häufig sind sprichwörtliche [...] Verwendungen. – Es handelt sich hierbei um einen lexikographischen Kommentar zur Quantität bestimmter Typen von Belegbeispielen.
