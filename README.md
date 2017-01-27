@@ -4,5 +4,5 @@ Die nachfolgende "Lexikographische Einleitung" zum Frühneuhochdeutschen Wörter
 
 FWB-online stellt diese Einleitung in unveränderter Form zur Verfügung, da sie die Grundlagen des Frühneuhochdeutschen Wörterbuchs und damit auch von FWB-online umfassend und lexikographietheoretisch fundiert erläutert. Dies gilt unbeschadet der Tatsache, dass Herr Reichmann sowie die anderen Ersteller des FWB im Laufe der vergangenen mehr als drei Jahrzehnte bei manchem Einzelaspekt Änderungen der ursprünglichen Verfahrensweisen vorgenommen haben.
 
-Der Entstehungszeit 1985/86 entsprechend ist die lexikographische Einleitung in der damls gültigen "alten" deutschen Rechtschreibung verfasst. 
+Der Entstehungszeit 1985/86 entsprechend ist die lexikographische Einleitung in der damals gültigen "alten" deutschen Rechtschreibung verfasst. 
 
