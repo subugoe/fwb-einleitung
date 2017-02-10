@@ -1,4 +1,4 @@
-Vorwort
+## Vorwort
 
 Die nachfolgende "Lexikographische Einleitung" zum Frühneuhochdeutschen Wörterbuch \(FWB\) wurde im Jahr 1985 von Oskar Reichmann verfasst und in der ersten Lieferung des Bandes 1 des FWB 1986 publiziert.
 
