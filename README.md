@@ -8,3 +8,5 @@ Der Entstehungszeit 1985/86 entsprechend ist die lexikographische Einleitung in 
 
 Der Text entspricht dem Text auf den Seiten 16 bis 164 des Bandes 1 der Druckversion des Frühneuhochdeutschen Wörterbuchs.
 
+Ein Test.
+
