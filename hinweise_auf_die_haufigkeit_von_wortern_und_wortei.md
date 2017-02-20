@@ -15,7 +15,7 @@ Die Beachtung der vorstehenden beiden Bedingungen führt natürlich zu einer rel
 * hinter jedem Lemma die Gesamtzahl der Belege,
 * hinter jeder für eine Häufigkeitsmarkierung in Betracht kommenden Position (also z. B. hinter jeder Wortbedeutung) die Belegquantität für die gerade betroffene Eigenschaft (eventuell in Prozentzahlen, also relativ zu einer Bezugsgröße, darunter vor allem zur Gesamtbelegung)
 
-anzugeben; ich habe aber den Sinn einer solch stringenten Dokumentation von Quantitäten für ein languebezogenes Bedeutungswörterbuch nie recht eingesehen[^131].
+anzugeben; ich habe aber den Sinn einer solch stringenten Dokumentation von Quantitäten für ein languebezogenes Bedeutungswörterbuch nie recht eingesehen<a class="introduction-footnote" tabindex="0">131</a><span class="introduction-footnote_text">131. Damit ist selbstverständlich nichts gegen den Wert genauer Zahlenangaben bei anderen Untersuchungszielen gesagt; vgl. Lindgren, Apokope.</span>.
 
 Daraus ergibt sich, daß statt absoluter Zahlen ausschließlich normalsprachliche Kennzeichnungen verwendet werden, und zwar weitgehend standardisiert durch eine offene Reihe von Ausdrücken wie _häufig, meist, mehrmals, vor allem, vereinzelt, selten, auch, zum Teil, schwach belegt_ usw. Diese Ausdrücke gewinnen ihren Aussagewert immer nur aus dem jeweiligen beschreibungssprachlichen Zusammenhang. Je nach Zusammenhang steht deshalb jeder Hinweis für unterschiedliche absolute Werte: _Mehrmals_ z. B. verweist bei großer Belegdichte also auf einen höheren absoluten Wert als bei weniger dichter Belegung; es kann sogar auf eine größere Häufigkeit deuten als z. B. _häufig_ bei schwacher Belegung.
 
