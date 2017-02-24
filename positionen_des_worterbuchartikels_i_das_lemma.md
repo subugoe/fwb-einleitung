@@ -94,7 +94,6 @@ Setzt man einmal voraus, daß die flexions-, die wortbildungsmorphologische und 
 Im folgenden soll das unter (3&#039;) angesprochene ausgezeichnete Phonemsystem in Verbindung mit dem hier zur Debatte stehenden ausgezeichneten Graphemsystem vorgeführt werden, und zwar nacheinander für die Lang- und Kurzvokale, für die Diphthonge und für die Konsonanten. Inhaltlich beruhen die Systeme auf den Ausführungen der Herausgeber im Band 1 der _Studien zur neuhochdeutschen Lexikographie._<a class="introduction-footnote" tabindex="0">65</a><span class="introduction-footnote_text">65. Vgl. die genaue bibliographische Angabe unter Anm. 62.</span> Die Anordnung der Schemata ist demgegenüber verändert, und zwar für die Vokalsysteme, um dem Leser einen Bezug auf die bekannte Größe ‚Vokaldreieck‘ nahezulegen, und für das Konsonantensystem, um einen entsprechenden Bezug auf das gängige Schema der Gliederung der Konsonanten nach Artikulationsart und -ort zu empfehlen.
 
 | /i:/ | /ü:/ | /u:/ |
-| --- | --- | --- |
 | &lt;ie&gt; | &lt;ü&gt; | &lt;u&gt; |
 | /e:/ | /ö:/ | /o:/ |
 | &lt;e; ä&gt; | &lt;ö&gt; | &lt;o&gt; |
@@ -103,8 +102,8 @@ Im folgenden soll das unter (3&#039;) angesprochene ausgezeichnete Phonemsystem 
 
 Abb. 10: Ideales System der Langvokalphoneme und der Langvokalgrapheme des Frühneuhochdeutschen
 
+
 | /i/ | /ü/ | /u/ |
-| --- | --- | --- |
 | &lt;i; i + Dk&gt; | &lt;ü; ü + Dk&gt; | &lt;u; u + Dk&gt; |
 | /e/ | /ö/ | /o/ |
 | &lt;e; e + Dk; ä; ä + Dk&gt; | &lt;ö; ö + Dk&gt; | &lt;o; o + Dk&gt; |
@@ -113,14 +112,14 @@ Abb. 10: Ideales System der Langvokalphoneme und der Langvokalgrapheme des Früh
 
 Abb. 11: Ideales System der Kurzvokalphoneme und der Kurzvokalgrapheme des Frühneuhochdeutschen
 
+
 | /ei/ | /au/ | /eu/ |
-| --- | --- | --- |
 | &lt;ei&gt; | &lt;au&gt; | &lt;eu; äu&gt; |
 
 Abb. 12: Ideales System der Diphthongphoneme und der Diphthonggrapheme des Frühneuhochdeutschen
 
+
 |  | Labial-/Labiodentalbereich | Dentalbereich | Velar-/Guttural-/Laryngalbereich |
-| --- | --- | --- | --- |
 | Spiranten | stimmhaft | stimmlos | stimmhaft | stimmlos | stimmhaft | stimmlos |
 |  | /v/ &lt;w; u&gt; | /f/ &lt;f; ff; v&gt; | /z/ &lt;s&gt; | /s/ /sch/ &lt;s, ss&gt; &lt;sch; s&gt; | /j/ &lt;j&gt; | /ch/ /h/ &lt;ch&gt; &lt;h&gt; |
 | Affrikaten |  | /pf/ &lt;pf&gt; |  | /ts/ &lt;z; tz&gt; |  |  |
@@ -149,7 +148,6 @@ Langvokale:
 Kurzvokale:
 
 | _/i/_ | &lt;_i; i + Dk&gt;_ | _abdichten; aberwinnen; aberwitzig; aberwiz._ Doppelkonsonant als (für _/i/_ zusätzliches, vgl. unter _/i:/_) Kennzeichen der Kürze des vorangehenden Vokals steht ausschließlich in der Stellung ‚Vokal + Konsonant + Vokal‘: _-winnen, -witzig,_ dagegen: _aberwiz; [tz]_ und _[ck]_ haben den graphischen Wert von gedoppeltem _z_ bzw. _k_ (*_zz_; *_kk_). Nicht gedoppelt werden _[b], [d], [g]_ (es sei denn für Entlehnungen aus dem Niederdeutschen), _[ch], [ng], [sch], [j], [h], [w]._ Doppeltes _[s]_ in zwischenvokalischer Stellung, also _[ss],_ ist nicht Kürzenkennzeichen, sondern Kennzeichen der Stimmlosigkeit gegenüber _[s]._ |
-| --- | --- | --- |
 | _/e/_ | &lt;_e; e + Dk; ä; ä + Dk;_ | _aberben, aberkennen, abkräftig, abspännig_ |
 | _/a/_ | &lt;_a; a + Dk&gt;_ | _aberhalten, abbannen_ |
 | _/o/_ | _&lt;o; o + Dk&gt;_ | _abhold, abkommen_ |
@@ -160,14 +158,12 @@ Kurzvokale:
 Diphthonge:
 
 | _/ei/_ | _&lt;ei&gt;_ | _abfeilen_ |
-| --- | --- | --- |
 | _/au/_ | _&lt;au&gt;_ | _abfaulen_ |
 | _/eu/_ | _&lt;eu; äu&gt;_ | _abenteuer, freude, abfäulen;_ zu _[äu]_ vgl. _/e:/._ |
 
 Konsonanten:
 
 | _/v/_ | _&lt;w; u&gt;_ | _abwechsel, abquitten_ |
-| --- | --- | --- |
 |  |  | _/u/_ ausschließlich in der Phonemverbindung _/kw/_, graphisch _[qu]._ |
 | _/f/_ | _&lt;f; ff; v&gt;_ | _abfordern, äffen, vor._ Zur Verwendung des Doppelgraphs _[ff]_ vgl. _/i/; [v]_ nur in _ver-/vor-/von_ |
 | _/z/_ | _&lt;s&gt;_ | _absagen, abreisen_ |
