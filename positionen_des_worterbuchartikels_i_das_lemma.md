@@ -15,9 +15,9 @@ Die Vielfalt der Vorkommensformen hängt wieder mit dem Faktum zusammen, daß es
 
 **abbleuen** begegnet belegt in den Varianten: _abplewn, abpleuen, abbleyen, abblewen;_
 
-**abgot** in den Varianten: _abgote, abgott, abgo&amp;#x0364oe;tte, abtgot, abtgote, abgotten, aptgot, abgot, abgo&amp;#x0364;tter, abgötter, ab got, Abgot, Abgott;_
+**abgot** in den Varianten: _abgote, abgott, abgoͤtte, abtgot, abtgote, abgotten, aptgot, abgot, abgoͤtter, abgötter, ab got, Abgot, Abgott;_
 
-**abkommen** in den Varianten: _abe qwam, kam abe, abkame, abkommet, ab kume, abekomen, abkomen, abko&amp;#x0364;mpt, afkompt, abkumet, abkombt, abkommen, abeqweme, abkumen, khum ab, abkem, kum&amp;#x0303; ab, abe kumen, Abkommen, abkumben, käm ab, abe kam, afqueme, kumen ab, abzukumben._
+**abkommen** in den Varianten: _abe qwam, kam abe, abkame, abkommet, ab kume, abekomen, abkomen, abkoͤmpt, afkompt, abkumet, abkombt, abkommen, abeqweme, abkumen, khum ab, abkem, kum̃ ab, abe kumen, Abkommen, abkumben, käm ab, abe kam, afqueme, kumen ab, abzukumben._
 
 Die Beispiele sind keineswegs besonders ausgesucht. Mehrfachbelege bestimmter Vorkommensformen begegnen generell sehr selten; sie vermögen das Bild also kaum zu verzerren, führen im übrigen auch bei zufällig einmal hoher Frequenz aus prinzipiellen Gründen nicht auf die repräsentative Lemmaform.
 
